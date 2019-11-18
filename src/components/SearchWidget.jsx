@@ -1,11 +1,14 @@
 import React from 'react'
 import './SearchWidget.css'
+import {NavLink} from 'react-router-dom'
 
 const SearchWidget = () => {
     return (
         <div className='search_container'>
              <div className='search_widget'>
-                 <h1>SearchWidget</h1>
+             <NavLink exact activeClassName='active' to='/adventures'>             
+             <img className="get_adventure" src={require("./../media/SVG/roadsign.svg")} alt="widget" onClick="{/adventures}" />
+             </NavLink>
             </div>
         </div>
     )

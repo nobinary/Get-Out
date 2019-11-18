@@ -1,0 +1,9 @@
+.footer_container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.footer_heart {
+    height: 35px;
+}

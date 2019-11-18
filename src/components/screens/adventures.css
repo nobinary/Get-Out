@@ -1,0 +1,8 @@
+
+.adventure_container {
+    height: 400px;
+    background-image: url('./../../media/1886357.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0 20px;
+}

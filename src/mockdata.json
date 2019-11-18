@@ -1,0 +1,3406 @@
+[
+  {
+    "RecAreaID": "10021",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "192",
+    "RecAreaName": "Nara's Northeast Region - New York City",
+    "RecAreaDescription": "<p>Nara's Northeast Region - New York City</p>",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "<p>The facility is in downtown Manhattan, 4 blocks north of the Holland Tunnel, on the 12th floor at 201 Varick Street. </p>\r\n<p><strong>By PATH Train:</strong></p>\r\n33rd Street train to Christopher Street. Walk south on Hudson St. to Houston St. \r\n\r\n<p><strong>By Subway: </strong></p>\r\n<p>1 or 9 train to Houston Street. E train to Spring Street. By Bus: \r\nM5, M6, and M21 buses stop on W. Houston near Varick. M10 bus (7th and 8th Ave.) uptown on Hudson to near Houston. Some, not all, M10's downtown go as far south as Houston. M15 bus connects with the M5 and M21 at E. Houston. Take M21 bus to Varick, or M5 bus to 6th Avenue.</p>\r\n<p><strong>By Car:</strong></p>\r\n<p>The facility is 4 blocks north of the Holland Tunnel and just off the West Side Highway between Canal and Christopher Streets</p>",
+    "RecAreaPhone": "212-401-1620",
+    "RecAreaEmail": "newyork.archives@nara.gov",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "",
+    "GEOJSON": {
+      "TYPE": "",
+      "COORDINATES": null
+    },
+    "RecAreaLongitude": 0,
+    "RecAreaLatitude": 0,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2019-05-08",
+    "ORGANIZATION": [
+      {
+        "OrgID": "192",
+        "OrgName": "National Archives and Records Administration",
+        "OrgImageURL": "",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.archives.gov",
+        "OrgType": "Federal Agency",
+        "OrgAbbrevName": "NARA",
+        "OrgJurisdictionType": "State",
+        "OrgParentID": "157",
+        "LastUpdatedDate": "2019-02-14"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "483532",
+        "RecAreaID": "10021",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "Naraїs Northeast Region - New York City",
+        "RecAreaStreetAddress2": "201 Varick Street",
+        "RecAreaStreetAddress3": "12th Floor, (Entrance on Houston Street, between Varick and Hudson.) ",
+        "City": "New York",
+        "PostalCode": "10014 ",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "0001-01-01"
+      }
+    ],
+    "ACTIVITY": [
+      {
+        "ActivityID": 8,
+        "ActivityParentID": "",
+        "RecAreaID": "10021",
+        "ActivityName": "HISTORIC & CULTURAL SITE",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      }
+    ],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "c71ddd5f8934feb44f4fab97c766476f",
+        "LinkType": "Official Web Site",
+        "EntityID": "10021",
+        "EntityType": "RecArea",
+        "Title": "Naraїs Northeast Region - New York City web site",
+        "Description": "",
+        "URL": "http://www.archives.gov/northeast/nyc/new_york.html"
+      }
+    ],
+    "MEDIA": []
+  },
+  {
+    "RecAreaID": "1089",
+    "OrgRecAreaID": "64897",
+    "ParentOrgID": "131",
+    "RecAreaName": "Green Mountain & Finger Lakes National Forests",
+    "RecAreaDescription": "<p><img alt=\"An expansive vista has green pines in the foreground looking over a valley framing a small lake.\" src=\"http://www.fs.usda.gov/Internet/FSE_MEDIA/fseprd574433.jpg\" style=\"width: 520px; height: 250px;\"/></p>\r\r<p> </p>\r\r<p>The Green Mountain & Finger Lakes National Forests’ scenic beauty along the backbone of Vermont’s Green Mountains and New York’s Finger Lakes region provide unlimited recreational opportunities in all seasons.  </p>\r\r<p> </p>\r\r<h2>Go Play!</h2>\r\r<p id=\"quick_link_wrapper\"><a href=\"https://www.fs.usda.gov/activity/gmfl/recreation/hiking\"><img alt=\"A stick figure with a backpack and walking sticks climbs on incline, on a wood-grain jelly icon.\" src=\"http://www.fs.usda.gov/Internet/FSE_MEDIA/fseprd533177.png\" style=\"width: 130px; height: 130px; margin:0px;\"/> </a> <a href=\"https://www.fs.usda.gov/activity/gmfl/recreation/fishing\"><img alt=\"Pictograph of Fisher that Says Fishing\" src=\"http://www.fs.usda.gov/Internet/FSE_MEDIA/fseprd575296.png\" style=\"width: 130px; height: 130px; margin:0px;\"/></a><a href=\"https://www.fs.usda.gov/activity/gmfl/recreation/camping-cabins\"><img alt=\"A stick figure image of tent over a moon, on a wood-grain jelly icon.\" src=\"http://www.fs.usda.gov/Internet/FSE_MEDIA/fseprd533182.png\" style=\"width: 130px; height: 130px; margin:0px;\"/></a><a href=\"https://www.fs.usda.gov/activity/gmfl/recreation/bicycling/?recid=64897&actid=24\"><img alt=\"A stick figure image of a person riding a bike on a wood-grain jelly icon.\" src=\"http://www.fs.usda.gov/Internet/FSE_MEDIA/fseprd575293.png\" style=\"width: 130px; height: 130px; margin:0px;\"/></a></p>\r\r<p><strong>Some of the many opportunities we offer include:</strong></p>\r\r<ul>\r\t<li>Over <a href=\"https://www.fs.usda.gov/activity/gmfl/recreation/hiking\">900 miles of trails</a> managed for both summer and winter uses</li>\r\t<li>Sections <a href=\"https://www.fs.usda.gov/activity/gmfl/recreation/hiking/?recid=64897&actid=51\">long trails</a> like the Appalachian National Scenic Trail, the Long Trail, and the North Country Scenic Trail. </li>\r\t<li>Outsanding <a href=\"https://www.fs.usda.gov/activity/gmfl/recreation/camping-cabins/?recid=64897&actid=29\">campgrounds</a>, including two designated National Recreation Areas</li>\r\t<li>Eight designated <a href=\"https://www.fs.usda.gov/activity/gmfl/recreation/camping-cabins/?recid=64897&actid=34\">wilderness areas</a> on the Green Mountain National Forest </li>\r\t<li>3 Alpine and 6 Nordic Commercial <a href=\"https://www.fs.usda.gov/activity/gmfl/recreation/wintersports\">ski areas</a> offering some of the most spectacular skiing in the northeast</li>\r\t<li>Countless lakes and streams for unlimited <a href=\"https://www.fs.usda.gov/activity/gmfl/recreation/fishing\">fishing </a>and <a href=\"https://www.fs.usda.gov/activity/gmfl/recreation/wateractivities\">other water activities</a></li>\r</ul>\r\r<p>Enjoy your Green Mountain and Finger Lakes National Forests.  It’s All Yours!</p>",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "",
+    "RecAreaPhone": "{}",
+    "RecAreaEmail": "ethan.ready@usda.gov",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "",
+    "GEOJSON": {
+      "TYPE": "Point",
+      "COORDINATES": [-72.975755, 43.625662]
+    },
+    "RecAreaLongitude": -72.975755,
+    "RecAreaLatitude": 43.625662,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2019-09-25",
+    "ORGANIZATION": [
+      {
+        "OrgID": "131",
+        "OrgName": "USDA Forest Service",
+        "OrgImageURL": "fs.jpg",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.fs.fed.us",
+        "OrgType": "Federal Agency",
+        "OrgAbbrevName": "FS",
+        "OrgJurisdictionType": "State",
+        "OrgParentID": "163",
+        "LastUpdatedDate": "2018-06-26"
+      }
+    ],
+    "FACILITY": [
+      {
+        "FacilityID": "246566",
+        "FacilityName": "Moses Pond",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246566"
+      },
+      {
+        "FacilityID": "246567",
+        "FacilityName": "Falls of Lana",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246567"
+      },
+      {
+        "FacilityID": "246557",
+        "FacilityName": "White River Road",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246557"
+      },
+      {
+        "FacilityID": "246558",
+        "FacilityName": "Somerset Road",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246558"
+      },
+      {
+        "FacilityID": "246568",
+        "FacilityName": "Robert Frost Wayside",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246568"
+      },
+      {
+        "FacilityID": "246552",
+        "FacilityName": "Sugarbush",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246552"
+      },
+      {
+        "FacilityID": "246515",
+        "FacilityName": "Green Mountain  - Middlebury/Rochester District",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246515"
+      },
+      {
+        "FacilityID": "246539",
+        "FacilityName": "Romance Header",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246539"
+      },
+      {
+        "FacilityID": "246572",
+        "FacilityName": "Bristol Cliffs Wilderness",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246572"
+      },
+      {
+        "FacilityID": "246546",
+        "FacilityName": "Prospect",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246546"
+      },
+      {
+        "FacilityID": "246564",
+        "FacilityName": "Branch Pond",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246564"
+      },
+      {
+        "FacilityID": "246569",
+        "FacilityName": "Big Branch Overlook",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246569"
+      },
+      {
+        "FacilityID": "246545",
+        "FacilityName": "Breadloaf Wilderness",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246545"
+      },
+      {
+        "FacilityID": "246544",
+        "FacilityName": "Old Job",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246544"
+      },
+      {
+        "FacilityID": "246547",
+        "FacilityName": "Wild Wings",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246547"
+      },
+      {
+        "FacilityID": "246548",
+        "FacilityName": "Mt. Meadows",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246548"
+      },
+      {
+        "FacilityID": "246549",
+        "FacilityName": "Mt. Top",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246549"
+      },
+      {
+        "FacilityID": "246550",
+        "FacilityName": "Rikert",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246550"
+      },
+      {
+        "FacilityID": "246553",
+        "FacilityName": "Mt. Snow",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246553"
+      },
+      {
+        "FacilityID": "246517",
+        "FacilityName": "Moosalamoo National Recreation Area",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246517"
+      },
+      {
+        "FacilityID": "246536",
+        "FacilityName": "Bingo",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246536"
+      },
+      {
+        "FacilityID": "246538",
+        "FacilityName": "Michigan Brook Road",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246538"
+      },
+      {
+        "FacilityID": "246534",
+        "FacilityName": "Chatfield Loop",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246534"
+      },
+      {
+        "FacilityID": "246570",
+        "FacilityName": "Lye Brook Wilderness",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246570"
+      },
+      {
+        "FacilityID": "232393",
+        "FacilityName": "HAPGOOD POND",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/232393"
+      },
+      {
+        "FacilityID": "249967",
+        "FacilityName": "Finger Lakes - Hector District",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/249967"
+      },
+      {
+        "FacilityID": "256347",
+        "FacilityName": "MOOSALAMOO CAMPGROUND",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/256347"
+      },
+      {
+        "FacilityID": "246528",
+        "FacilityName": "Bald Mountain",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246528"
+      },
+      {
+        "FacilityID": "251609",
+        "FacilityName": "CHITTENDEN BROOK CAMPGROUND",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/251609"
+      },
+      {
+        "FacilityID": "246554",
+        "FacilityName": "Brandon Gap",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246554"
+      },
+      {
+        "FacilityID": "246555",
+        "FacilityName": "Lincoln Gap Road",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246555"
+      },
+      {
+        "FacilityID": "246556",
+        "FacilityName": "Robert Frost Memorial Drive",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246556"
+      },
+      {
+        "FacilityID": "246542",
+        "FacilityName": "Texas Meadows",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246542"
+      },
+      {
+        "FacilityID": "246533",
+        "FacilityName": "Robert T. Stafford White Rocks National Recreation Area",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246533"
+      },
+      {
+        "FacilityID": "246516",
+        "FacilityName": "Green Mountain - Manchester District",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246516"
+      },
+      {
+        "FacilityID": "246560",
+        "FacilityName": "South Branch and Middle Branch",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246560"
+      },
+      {
+        "FacilityID": "250051",
+        "FacilityName": "Caywood Point",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/250051"
+      },
+      {
+        "FacilityID": "246520",
+        "FacilityName": "Silver Lake Campground",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246520"
+      },
+      {
+        "FacilityID": "274362",
+        "FacilityName": "Backbone Trailhead",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/274362"
+      },
+      {
+        "FacilityID": "246543",
+        "FacilityName": "West Hill (White River Road) & Patterson Brook Roa",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246543"
+      },
+      {
+        "FacilityID": "249965",
+        "FacilityName": "Backbone Horse Campground",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/249965"
+      },
+      {
+        "FacilityID": "246562",
+        "FacilityName": "Goshen Dam",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246562"
+      },
+      {
+        "FacilityID": "246563",
+        "FacilityName": "Beebee Pond",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246563"
+      },
+      {
+        "FacilityID": "246565",
+        "FacilityName": "Middlebury Gap",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246565"
+      },
+      {
+        "FacilityID": "246551",
+        "FacilityName": "Blueberry Hill",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246551"
+      },
+      {
+        "FacilityID": "246535",
+        "FacilityName": "Forest Road 341",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246535"
+      },
+      {
+        "FacilityID": "246537",
+        "FacilityName": "Downingville",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246537"
+      },
+      {
+        "FacilityID": "246540",
+        "FacilityName": "Sparks Landing",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246540"
+      },
+      {
+        "FacilityID": "246541",
+        "FacilityName": "Steam Mill Clearing",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246541"
+      },
+      {
+        "FacilityID": "246559",
+        "FacilityName": "Joseph Battell Wilderness",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246559"
+      },
+      {
+        "FacilityID": "246571",
+        "FacilityName": "George D. Aiken Wilderness",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246571"
+      },
+      {
+        "FacilityID": "246573",
+        "FacilityName": "Big Branch Wilderness",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246573"
+      },
+      {
+        "FacilityID": "246574",
+        "FacilityName": "Peru Peak Wilderness",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246574"
+      },
+      {
+        "FacilityID": "246575",
+        "FacilityName": "Glastenbury Wilderness",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246575"
+      },
+      {
+        "FacilityID": "246576",
+        "FacilityName": "Shep Meadows",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246576"
+      }
+    ],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "869919",
+        "RecAreaID": "1089",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "",
+        "PostalCode": "",
+        "AddressStateCode": "VT",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2017-07-05"
+      },
+      {
+        "RecAreaAddressID": "869920",
+        "RecAreaID": "1089",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "",
+        "PostalCode": "",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2017-07-05"
+      }
+    ],
+    "ACTIVITY": [
+      {
+        "ActivityID": 4,
+        "ActivityParentID": "",
+        "RecAreaID": "1089",
+        "ActivityName": "AUTO TOURING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 5,
+        "ActivityParentID": "",
+        "RecAreaID": "1089",
+        "ActivityName": "BIKING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 11,
+        "ActivityParentID": "",
+        "RecAreaID": "1089",
+        "ActivityName": "FISHING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 14,
+        "ActivityParentID": "",
+        "RecAreaID": "1089",
+        "ActivityName": "HIKING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 15,
+        "ActivityParentID": "",
+        "RecAreaID": "1089",
+        "ActivityName": "HORSEBACK RIDING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 20,
+        "ActivityParentID": "",
+        "RecAreaID": "1089",
+        "ActivityName": "PICNICKING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 22,
+        "ActivityParentID": "",
+        "RecAreaID": "1089",
+        "ActivityName": "WINTER SPORTS",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 26,
+        "ActivityParentID": "",
+        "RecAreaID": "1089",
+        "ActivityName": "WILDLIFE VIEWING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 106,
+        "ActivityParentID": "",
+        "RecAreaID": "1089",
+        "ActivityName": "SWIMMING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      }
+    ],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "7a7a535fc1e5576f9c1f281e85f6349e",
+        "LinkType": "Official Web Site",
+        "EntityID": "1089",
+        "EntityType": "RecArea",
+        "Title": "Green Mountain & Finger Lakes National Forests",
+        "Description": "",
+        "URL": "https://www.fs.usda.gov/gmfl"
+      }
+    ],
+    "MEDIA": [
+      {
+        "EntityMediaID": "77fb4d50-97b4-4e19-b2a5-1ce71ef27728",
+        "MediaType": "Image",
+        "EntityID": "1089",
+        "EntityType": "RecArea",
+        "Title": "Green Mountain & Finger Lakes National Forests Fall",
+        "Subtitle": "",
+        "Description": "Green Mountain & Finger Lakes National Forests Fall",
+        "EmbedCode": "",
+        "Height": 1005,
+        "Width": 700,
+        "URL": "https://cdn.recreation.gov/public/2019/10/08/22/02/1089_3fad5368-321f-4445-9836-9374d95b5813_700.jpg",
+        "Credits": "USDA FS",
+        "IsPrimary": false,
+        "IsPreview": false,
+        "IsGallery": true
+      },
+      {
+        "EntityMediaID": "24fa9d4e-3581-4594-a038-ceabdd8f7344",
+        "MediaType": "Image",
+        "EntityID": "1089",
+        "EntityType": "RecArea",
+        "Title": "Green Mountain & Finger Lakes National Forests",
+        "Subtitle": "",
+        "Description": "Fall Colors",
+        "EmbedCode": "",
+        "Height": 525,
+        "Width": 700,
+        "URL": "https://cdn.recreation.gov/public/2019/10/08/22/01/1089_e3577ae2-3ac1-4dda-a2fa-ff9e86415120_700.jpg",
+        "Credits": "USDA FS",
+        "IsPrimary": false,
+        "IsPreview": false,
+        "IsGallery": true
+      },
+      {
+        "EntityMediaID": "07c66836-b7f3-4a69-b816-d600513c9e1e",
+        "MediaType": "Image",
+        "EntityID": "1089",
+        "EntityType": "RecArea",
+        "Title": "Green Mountain & Finger Lakes National Forests",
+        "Subtitle": "",
+        "Description": "Green Mountain & Finger Lakes National Forests",
+        "EmbedCode": "",
+        "Height": 340,
+        "Width": 1440,
+        "URL": "https://cdn.recreation.gov/public/2019/10/08/21/59/1089_bf7f405a-d793-4f8c-8ffd-0170599858de_1440.jpg",
+        "Credits": "Share the Experience, Brandon Munoz",
+        "IsPrimary": true,
+        "IsPreview": false,
+        "IsGallery": false
+      },
+      {
+        "EntityMediaID": "10a55005-ea2f-4318-8ad4-50166488ed43",
+        "MediaType": "Image",
+        "EntityID": "1089",
+        "EntityType": "RecArea",
+        "Title": "Green Mountain & Finger Lakes National Forests Fall colors",
+        "Subtitle": "",
+        "Description": "Green Mountain & Finger Lakes National Forests Fall colors",
+        "EmbedCode": "",
+        "Height": 1035,
+        "Width": 700,
+        "URL": "https://cdn.recreation.gov/public/2019/10/08/22/03/1089_61d8fe8f-b014-47ff-b947-de09824af7e6_700.jpg",
+        "Credits": "USDA FS",
+        "IsPrimary": false,
+        "IsPreview": false,
+        "IsGallery": true
+      },
+      {
+        "EntityMediaID": "e84a5a77-cbbd-4984-84b4-038625f9e718",
+        "MediaType": "Image",
+        "EntityID": "1089",
+        "EntityType": "RecArea",
+        "Title": "Green Mountain & Finger Lakes National Forests",
+        "Subtitle": "",
+        "Description": "Green Mountain & Finger Lakes National Forests",
+        "EmbedCode": "",
+        "Height": 525,
+        "Width": 700,
+        "URL": "https://cdn.recreation.gov/public/2018/09/02/16/53/1089_8e65c80a-81c8-4ab2-8cfa-80f12ed0a77b_700.jpg",
+        "Credits": "Share the Experience, Brandon Munoz",
+        "IsPrimary": false,
+        "IsPreview": true,
+        "IsGallery": false
+      }
+    ]
+  },
+  {
+    "RecAreaID": "1261",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "127",
+    "RecAreaName": "Amagansett National Wildlife Refuge",
+    "RecAreaDescription": "The Amagansett NWR graces the shore of the Atlantic Ocean on Long Island's south fork. Established December 16,1968, the 36-acre refuge is of special significance in the protection and management of fragile shore habitat and wildlife. Its unique double dune system embodies marine sand beach, primary dunes, secondary dunes, swales, fens, cranberry bogs, and oak scrub. Many rare plants, including several orchids, occur on the refuge. A major purpose of the refuge is the protection of the secondary dunes, which have become scarce on Long Island due to development. \r\n\r\n\r\n\r\nLong-tailed ducks, white winged scoter, common loon and horned grebe spend winter off the refuge shore, while shorebirds, songbirds and raptors are a treat to visiting wildlife watchers during spring and fall. Merlin, Cooper's hawk, kestrel, sharp-shinned hawk, and peregrine falcon soar over the dunes during migration. Ipswich sparrow, rough-legged hawk, and short eared owl spend winter at the refuge offering birders a cold-weather destination. In late spring and summer the beach hosts piping plover, and common and least terns (protected by the Endangered Species Act) as well as sandpiper and other shorebirds. The Eastern hognose snake, a New York State designated species of special concern, can still be found on the refuge.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "The refuge is adjacent to Atlantic Avenue, off Route 27 in Amagansett, NY.",
+    "RecAreaPhone": "631-286-0485",
+    "RecAreaEmail": "longislandrefuges@fws.gov",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "",
+    "GEOJSON": {
+      "TYPE": "Point",
+      "COORDINATES": [-72.886536, 40.794385]
+    },
+    "RecAreaLongitude": -72.886536,
+    "RecAreaLatitude": 40.794385,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2019-09-25",
+    "ORGANIZATION": [
+      {
+        "OrgID": "127",
+        "OrgName": "Fish and Wildlife Service",
+        "OrgImageURL": "fws.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.fws.gov",
+        "OrgType": "Federal Agency",
+        "OrgAbbrevName": "FWS",
+        "OrgJurisdictionType": "State",
+        "OrgParentID": "139",
+        "LastUpdatedDate": "2018-06-26"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "604477",
+        "RecAreaID": "1261",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "Atlantic Ave.",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Amagansett",
+        "PostalCode": "11930",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "0001-01-01"
+      }
+    ],
+    "ACTIVITY": [
+      {
+        "ActivityID": 11,
+        "ActivityParentID": "",
+        "RecAreaID": "1261",
+        "ActivityName": "FISHING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 14,
+        "ActivityParentID": "",
+        "RecAreaID": "1261",
+        "ActivityName": "HIKING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 26,
+        "ActivityParentID": "",
+        "RecAreaID": "1261",
+        "ActivityName": "WILDLIFE VIEWING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 104,
+        "ActivityParentID": "",
+        "RecAreaID": "1261",
+        "ActivityName": "PHOTOGRAPHY",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      }
+    ],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "1454816c0bdfa9ab474636cff4a15dc7",
+        "LinkType": "Official Web Site",
+        "EntityID": "1261",
+        "EntityType": "RecArea",
+        "Title": "Amagansett National Wildlife Refuge",
+        "Description": "",
+        "URL": "http://www.fws.gov/refuge/amagansett/"
+      }
+    ],
+    "MEDIA": []
+  },
+  {
+    "RecAreaID": "13667",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "133",
+    "RecAreaName": "Great Lakes Seaway Trail",
+    "RecAreaDescription": "The Great Lakes Seaway Trail byway parallels the St. Lawrence Seaway and Great Lakes in New York and Pennsylvania. This adventure includes Niagara Falls; 1000 Islands; 29 lighthouses; War of 1812, farm, and nature sites; welcoming harbors, world-class sportfishing, bridges/ferries to/from Canada, and the Seaway Trail Discovery Center.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "",
+    "RecAreaPhone": "315-646-1000",
+    "RecAreaEmail": "info@seawaytrail.com",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "http://library.byways.org/a/static_maps/000/000/548/St_Lawrence_River_Section.png",
+    "GEOJSON": {
+      "TYPE": "",
+      "COORDINATES": null
+    },
+    "RecAreaLongitude": 0,
+    "RecAreaLatitude": 0,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2018-08-26",
+    "ORGANIZATION": [
+      {
+        "OrgID": "133",
+        "OrgName": "Department of Transportation",
+        "OrgImageURL": "dot.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.dot.gov",
+        "OrgType": "Federal Department",
+        "OrgAbbrevName": "DOT",
+        "OrgJurisdictionType": "Federal",
+        "OrgParentID": "157",
+        "LastUpdatedDate": "2019-02-14"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "10341",
+        "RecAreaID": "13667",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "",
+        "PostalCode": "",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "",
+        "LastUpdatedDate": "2013-04-02"
+      },
+      {
+        "RecAreaAddressID": "10342",
+        "RecAreaID": "13667",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "1616 East 18th Street",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Kansas City",
+        "PostalCode": "64108",
+        "AddressStateCode": "MO",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2018-10-12"
+      }
+    ],
+    "ACTIVITY": [],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "7210ac117b8cc1bfc6566c195346ca22",
+        "LinkType": "Map",
+        "EntityID": "13667",
+        "EntityType": "RecArea",
+        "Title": "Great Lakes Seaway Trail Map",
+        "Description": "",
+        "URL": "http://library.byways.org/a/static_maps/000/000/548/St_Lawrence_River_Section.png"
+      },
+      {
+        "EntityLinkID": "7a244e70864845525f0e81b4b54f7a13",
+        "LinkType": "Official Web Site",
+        "EntityID": "13667",
+        "EntityType": "RecArea",
+        "Title": "",
+        "Description": "",
+        "URL": "http://www.fhwa.dot.gov/byways/byways/2488"
+      }
+    ],
+    "MEDIA": [
+      {
+        "EntityMediaID": "1489",
+        "MediaType": "Image",
+        "EntityID": "13667",
+        "EntityType": "RecArea",
+        "Title": "Boldt Castle and the 1000 Islands",
+        "Subtitle": "",
+        "Description": "",
+        "EmbedCode": "",
+        "Height": 0,
+        "Width": 0,
+        "URL": "https://cdn.recreation.gov/public/images/1489.jpg",
+        "Credits": "",
+        "IsPrimary": false,
+        "IsPreview": false,
+        "IsGallery": true
+      }
+    ]
+  },
+  {
+    "RecAreaID": "13670",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "133",
+    "RecAreaName": "Great River Road",
+    "RecAreaDescription": "Throughout history, the Mississippi River influenced many lives: the Dakota, Chippewa, and Hopewell cultures; early French voyagers; African-Americans seeking freedom on the Underground Railroad; and many more. Through its charming river towns and metropolitan cities, historic sites and cultural artifacts, today's Great River\n\nRoad still links resources, people, and history.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "",
+    "RecAreaPhone": "870-972-2803",
+    "RecAreaEmail": "rhawkins@astate.edu",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "http://library.byways.org/a/static_maps/000/000/406/Wisconsin_South_Section.png",
+    "GEOJSON": {
+      "TYPE": "",
+      "COORDINATES": null
+    },
+    "RecAreaLongitude": 0,
+    "RecAreaLatitude": 0,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2018-08-26",
+    "ORGANIZATION": [
+      {
+        "OrgID": "133",
+        "OrgName": "Department of Transportation",
+        "OrgImageURL": "dot.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.dot.gov",
+        "OrgType": "Federal Department",
+        "OrgAbbrevName": "DOT",
+        "OrgJurisdictionType": "Federal",
+        "OrgParentID": "157",
+        "LastUpdatedDate": "2019-02-14"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "10346",
+        "RecAreaID": "13670",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "",
+        "PostalCode": "",
+        "AddressStateCode": "IL",
+        "AddressCountryCode": "",
+        "LastUpdatedDate": "2013-04-02"
+      },
+      {
+        "RecAreaAddressID": "10348",
+        "RecAreaID": "13670",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "",
+        "PostalCode": "",
+        "AddressStateCode": "KY",
+        "AddressCountryCode": "",
+        "LastUpdatedDate": "2013-04-02"
+      },
+      {
+        "RecAreaAddressID": "10353",
+        "RecAreaID": "13670",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "",
+        "PostalCode": "",
+        "AddressStateCode": "TN",
+        "AddressCountryCode": "",
+        "LastUpdatedDate": "2013-04-02"
+      },
+      {
+        "RecAreaAddressID": "10345",
+        "RecAreaID": "13670",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "The University of Arizona",
+        "RecAreaStreetAddress2": "P.O. Box 210026",
+        "RecAreaStreetAddress3": "",
+        "City": "Tucson",
+        "PostalCode": "85721",
+        "AddressStateCode": "AZ",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2018-10-12"
+      },
+      {
+        "RecAreaAddressID": "10347",
+        "RecAreaID": "13670",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "901 West Pratt Street",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Baltimore",
+        "PostalCode": "21223-2699",
+        "AddressStateCode": "MD",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2018-10-12"
+      },
+      {
+        "RecAreaAddressID": "10349",
+        "RecAreaID": "13670",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "One East 104 Street",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "New York",
+        "PostalCode": "10029-4495",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2018-10-12"
+      },
+      {
+        "RecAreaAddressID": "10350",
+        "RecAreaID": "13670",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "3700 Blackhawk Plaza Circle",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Danville",
+        "PostalCode": "94506-4652",
+        "AddressStateCode": "CA",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2018-10-12"
+      },
+      {
+        "RecAreaAddressID": "10351",
+        "RecAreaID": "13670",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "700 State Drive",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Los Angeles",
+        "PostalCode": "90037-1210",
+        "AddressStateCode": "CA",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2018-10-12"
+      },
+      {
+        "RecAreaAddressID": "10352",
+        "RecAreaID": "13670",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "10000 Skyline Boulevard",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Oakland",
+        "PostalCode": "94619",
+        "AddressStateCode": "CA",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2018-10-12"
+      },
+      {
+        "RecAreaAddressID": "10354",
+        "RecAreaID": "13670",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "1985 Cpl. Frank Scott Drive",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "College Park",
+        "PostalCode": "20740-3836",
+        "AddressStateCode": "MD",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2018-10-12"
+      }
+    ],
+    "ACTIVITY": [],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "c453ba550281856186addb4a7dacbc53",
+        "LinkType": "Map",
+        "EntityID": "13670",
+        "EntityType": "RecArea",
+        "Title": "Great River Road Map",
+        "Description": "",
+        "URL": "http://library.byways.org/a/static_maps/000/000/406/Wisconsin_South_Section.png"
+      },
+      {
+        "EntityLinkID": "e2c6ccf4b57ed68843b725d62c4b0e04",
+        "LinkType": "Official Web Site",
+        "EntityID": "13670",
+        "EntityType": "RecArea",
+        "Title": "",
+        "Description": "",
+        "URL": "http://www.fhwa.dot.gov/byways/byways/2279"
+      }
+    ],
+    "MEDIA": []
+  },
+  {
+    "RecAreaID": "13688",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "133",
+    "RecAreaName": "Highlands Scenic Byway",
+    "RecAreaDescription": "This National Forest Scenic Byway weaves through a landscape of diverse vegetation, scenic views, unique geological formations and an abundance of wildlife.  In addition, there are numerous historic places-the remnants of a once thriving mining community.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "<p><strong>Navigating the Byway:</strong><br /><b>Driving the Byway</b>\n\n<ul>\n\n<li>Approximately 20 miles west of Lexington, the Highlands Scenic Byway is accessible from I-64 at exit 43. Head south on Forest Road 447 to begin your tour of the byway.\n\n<li>Follow Forest Road 447 until you reach State Highway 654. Continue along State Highway 654 until you reach Collierstown Road.\n\n<li> Continue driving on Colliertown Road until you reach North Mountain Road. Turn right onto North Mountain Road, which will take you underneath I-64.\n\n<li>Drive northeast on North Mountain Road until you return to Forest Road 447.<p></p>",
+    "RecAreaPhone": "540-962-2214",
+    "RecAreaEmail": "Mailroom_R8_George_Washington_Jefferson@fs.fed.us",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "http://library.byways.org/a/static_maps/000/000/606/HighlandsVA_map.png",
+    "GEOJSON": {
+      "TYPE": "",
+      "COORDINATES": null
+    },
+    "RecAreaLongitude": 0,
+    "RecAreaLatitude": 0,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2018-08-26",
+    "ORGANIZATION": [
+      {
+        "OrgID": "133",
+        "OrgName": "Department of Transportation",
+        "OrgImageURL": "dot.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.dot.gov",
+        "OrgType": "Federal Department",
+        "OrgAbbrevName": "DOT",
+        "OrgJurisdictionType": "Federal",
+        "OrgParentID": "157",
+        "LastUpdatedDate": "2019-02-14"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "10373",
+        "RecAreaID": "13688",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "48 Wall Street",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "New York",
+        "PostalCode": "10004",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2018-10-12"
+      }
+    ],
+    "ACTIVITY": [],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "0210266bde314ad97d6429b59133bfcf",
+        "LinkType": "Map",
+        "EntityID": "13688",
+        "EntityType": "RecArea",
+        "Title": "Highlands Scenic Byway Map",
+        "Description": "",
+        "URL": "http://library.byways.org/a/static_maps/000/000/606/HighlandsVA_map.png"
+      },
+      {
+        "EntityLinkID": "709cfe6e8e2123796946181373b00fe4",
+        "LinkType": "Official Web Site",
+        "EntityID": "13688",
+        "EntityType": "RecArea",
+        "Title": "",
+        "Description": "",
+        "URL": "http://www.fhwa.dot.gov/byways/byways/10335"
+      }
+    ],
+    "MEDIA": []
+  },
+  {
+    "RecAreaID": "13692",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "133",
+    "RecAreaName": "Historic National Road",
+    "RecAreaDescription": "The Historic National Road was the nation's first federally funded interstate highway.  It opened the nation to the west and became a corridor for the movement of goods and people.  Today, visitors experience a physical timeline, including classic inns, tollhouses, diners, and motels that trace 200 years of American history.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "",
+    "RecAreaPhone": "765-478-3172",
+    "RecAreaEmail": "inra@historiclandmarks.org",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "http://library.byways.org/a/static_maps/000/000/387/WV_Section.gif",
+    "GEOJSON": {
+      "TYPE": "",
+      "COORDINATES": null
+    },
+    "RecAreaLongitude": 0,
+    "RecAreaLatitude": 0,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2018-08-26",
+    "ORGANIZATION": [
+      {
+        "OrgID": "133",
+        "OrgName": "Department of Transportation",
+        "OrgImageURL": "dot.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.dot.gov",
+        "OrgType": "Federal Department",
+        "OrgAbbrevName": "DOT",
+        "OrgJurisdictionType": "Federal",
+        "OrgParentID": "157",
+        "LastUpdatedDate": "2019-02-14"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "10379",
+        "RecAreaID": "13692",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "",
+        "PostalCode": "",
+        "AddressStateCode": "MD",
+        "AddressCountryCode": "",
+        "LastUpdatedDate": "2013-04-02"
+      },
+      {
+        "RecAreaAddressID": "10377",
+        "RecAreaID": "13692",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "55 North 5th Street",
+        "RecAreaStreetAddress2": "Independence Mall East",
+        "RecAreaStreetAddress3": "",
+        "City": "Philadelphia",
+        "PostalCode": "19106-2197",
+        "AddressStateCode": "PA",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2018-10-12"
+      },
+      {
+        "RecAreaAddressID": "10378",
+        "RecAreaID": "13692",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "312 Elm Street",
+        "RecAreaStreetAddress2": "20th Floor",
+        "RecAreaStreetAddress3": "",
+        "City": "Cincinnati",
+        "PostalCode": "45202",
+        "AddressStateCode": "OH",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2018-10-12"
+      },
+      {
+        "RecAreaAddressID": "10380",
+        "RecAreaID": "13692",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "Cultural Education Center",
+        "RecAreaStreetAddress2": "Room 3140",
+        "RecAreaStreetAddress3": "",
+        "City": "Albany",
+        "PostalCode": "12230",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2018-10-12"
+      },
+      {
+        "RecAreaAddressID": "10381",
+        "RecAreaID": "13692",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "11 West Jones Street",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Raleigh",
+        "PostalCode": "27601-1029",
+        "AddressStateCode": "NC",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2018-10-12"
+      },
+      {
+        "RecAreaAddressID": "10382",
+        "RecAreaID": "13692",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "2316 West First Avenue",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Spokane",
+        "PostalCode": "99204",
+        "AddressStateCode": "WA",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2018-10-12"
+      }
+    ],
+    "ACTIVITY": [],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "f08a20913109b1dded8a88c8dcc7406d",
+        "LinkType": "Map",
+        "EntityID": "13692",
+        "EntityType": "RecArea",
+        "Title": "Historic National Road Map",
+        "Description": "",
+        "URL": "http://library.byways.org/a/static_maps/000/000/387/WV_Section.gif"
+      },
+      {
+        "EntityLinkID": "17f63349402885aa76e2df3f4093e448",
+        "LinkType": "Official Web Site",
+        "EntityID": "13692",
+        "EntityType": "RecArea",
+        "Title": "",
+        "Description": "",
+        "URL": "http://www.fhwa.dot.gov/byways/byways/2278"
+      }
+    ],
+    "MEDIA": [
+      {
+        "EntityMediaID": "1504",
+        "MediaType": "Image",
+        "EntityID": "13692",
+        "EntityType": "RecArea",
+        "Title": "Eads Bridge",
+        "Subtitle": "",
+        "Description": "",
+        "EmbedCode": "",
+        "Height": 0,
+        "Width": 0,
+        "URL": "https://cdn.recreation.gov/public/images/1504.jpg",
+        "Credits": "",
+        "IsPrimary": false,
+        "IsPreview": false,
+        "IsGallery": true
+      }
+    ]
+  },
+  {
+    "RecAreaID": "13724",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "133",
+    "RecAreaName": "Lakes to Locks Passage",
+    "RecAreaDescription": "Midway between Manhattan and Montreal, the Lakes to Locks Passage lets you experience the interconnected waterway that shaped the destiny of North America. By bike, foot, boat, train, or car, you will discover charming small cities, rural landscapes and Adirondack hamlets with diverse historic, natural, cultural, and recreational sites.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "",
+    "RecAreaPhone": "518-597-9660",
+    "RecAreaEmail": "info@lakestolocks.com",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "http://library.byways.org/a/static_maps/000/000/520/Middle_Section.png",
+    "GEOJSON": {
+      "TYPE": "",
+      "COORDINATES": null
+    },
+    "RecAreaLongitude": 0,
+    "RecAreaLatitude": 0,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2018-08-26",
+    "ORGANIZATION": [
+      {
+        "OrgID": "133",
+        "OrgName": "Department of Transportation",
+        "OrgImageURL": "dot.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.dot.gov",
+        "OrgType": "Federal Department",
+        "OrgAbbrevName": "DOT",
+        "OrgJurisdictionType": "Federal",
+        "OrgParentID": "157",
+        "LastUpdatedDate": "2019-02-14"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "10420",
+        "RecAreaID": "13724",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "",
+        "PostalCode": "",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "",
+        "LastUpdatedDate": "2013-04-02"
+      }
+    ],
+    "ACTIVITY": [],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "1d709be56fc8606447006a91cae3f5e5",
+        "LinkType": "Map",
+        "EntityID": "13724",
+        "EntityType": "RecArea",
+        "Title": "Lakes to Locks Passage Map",
+        "Description": "",
+        "URL": "http://library.byways.org/a/static_maps/000/000/520/Middle_Section.png"
+      },
+      {
+        "EntityLinkID": "385fd04607889414dbd774821328f94a",
+        "LinkType": "Official Web Site",
+        "EntityID": "13724",
+        "EntityType": "RecArea",
+        "Title": "",
+        "Description": "",
+        "URL": "http://www.fhwa.dot.gov/byways/byways/2479"
+      }
+    ],
+    "MEDIA": [
+      {
+        "EntityMediaID": "1495",
+        "MediaType": "Image",
+        "EntityID": "13724",
+        "EntityType": "RecArea",
+        "Title": "Cook Mountain Lookout",
+        "Subtitle": "",
+        "Description": "",
+        "EmbedCode": "",
+        "Height": 0,
+        "Width": 0,
+        "URL": "https://cdn.recreation.gov/public/images/1495.jpg",
+        "Credits": "",
+        "IsPrimary": false,
+        "IsPreview": false,
+        "IsGallery": true
+      }
+    ]
+  },
+  {
+    "RecAreaID": "13760",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "133",
+    "RecAreaName": "Mohawk Towpath Byway",
+    "RecAreaDescription": "Visit New York's historic canal system and see the locks and bridges that made canal transport possible for almost two centuries. The Mohawk Towpath Byway links scenic, recreational, and historic resources. Architecture from the 18th and 19th centuries endures, as do the landscape and the perseverance of the canal builders. As you explore, other stories emerge including the area’s natural history, Native American influences on the only water-level route through the Appalachian Mountains, the American Revolution, the role our communities played in the westward expansion of the country and in the Industrial Revolution, the seat of innovation and invention, and family history.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "<strong>Getting to the Byway:</strong><p><em>Albany, NY</em><br>* Take I-787 north to Green Island.\n\n* Continue on NY-787 north to New Cortland St in Cohoes where the byway begins.\n\n</p><p><strong>Navigating the Byway:</strong><br />The byway begins at the intersection of State Hwy. 32 and 9th St. in Waterford, New York.   \n\nFrom there:\n\n\n\n* Drive south on State Hwy. 32/Saratoga Ave to New Cortland Street, about 1.7 miles.\n\n* Drive northwest on New Cortland Street.  It becomes North Mohawk Street.  \n\n* Drive northwest on North Mohawk Street.  It becomes Cohoes-Crescent Road. \n\n* Turn right onto Route 9 and continue for 0.6 miles.\n\n* Turn left onto Crescent/Vischer Ferry Road and continue for 0.1 miles.\n\n* Turn left onto Canal Road and continue for 2.3 miles.\n\n* Turn right onto Clamsteam road and continue for 0.3 miles.\n\n* Turn left onto Riverview Road and continue for four miles.\n\n* Bear left to continue along Riverview road and yield to traffic entering from Vischer Ferry road. Continue for 3.7 miles.\n\n* Continue straight through the stop sign. Riverview Road becomes Saratoga County Route 91. Continue for 1.7 miles.\n\n* Turn left onto State Route 146 and continue for 0.3 miles.\n\n* Turn right onto Aqueduct Road and continue for 2.1 miles. The road will become Van Vranken Ave.\n\n* Bear right at the intersection with Maxon Road and continue for 1.2 miles.\n\n* Turn left onto Erie Boulevard and continue for 1.3 miles to the western terminus of the byway at the intersection of State Street which is State Route 5 and the Revolutionary Byway.\n\n\n\nAn alternate route from Route 9 in Crescent, Halfmoon (fourth bullet above) returns to Waterford at the intersection of Eighth Street and Route 32.\n\n\n\n* Turn right onto Church Hill Road and continue for one mile.\n\n* Continue straight through the stop sign. The road becomes\n\nSaratoga County Route 94. Continue for 0.4 miles.\n\n* Turn right onto Saratoga County Road 96 and continue for 0.2 miles.\n\n* Turn right onto County 97 (Fonda Road) and continue for three miles.\n\n* County 97 (Fonda Road) becomes Washington Ave in the village of Waterford.  \n\n* Turn left onto Park Ave. \n\n* Turn right onto Sixth Street and continue for 0.2 miles to the eastern terminus at the intersection of State Route 32.</p>",
+    "RecAreaPhone": "518-383-8565",
+    "RecAreaEmail": "",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "http://library.byways.org/a/static_maps/000/000/867/NY_MohawkTowpath.png",
+    "GEOJSON": {
+      "TYPE": "",
+      "COORDINATES": null
+    },
+    "RecAreaLongitude": 0,
+    "RecAreaLatitude": 0,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2018-08-26",
+    "ORGANIZATION": [
+      {
+        "OrgID": "133",
+        "OrgName": "Department of Transportation",
+        "OrgImageURL": "dot.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.dot.gov",
+        "OrgType": "Federal Department",
+        "OrgAbbrevName": "DOT",
+        "OrgJurisdictionType": "Federal",
+        "OrgParentID": "157",
+        "LastUpdatedDate": "2019-02-14"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "10456",
+        "RecAreaID": "13760",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "",
+        "PostalCode": "",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "",
+        "LastUpdatedDate": "2013-04-02"
+      }
+    ],
+    "ACTIVITY": [],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "3b82c99ef7378337ac28e54012bf7b60",
+        "LinkType": "Map",
+        "EntityID": "13760",
+        "EntityType": "RecArea",
+        "Title": "Mohawk Towpath Byway Map",
+        "Description": "",
+        "URL": "http://library.byways.org/a/static_maps/000/000/867/NY_MohawkTowpath.png"
+      },
+      {
+        "EntityLinkID": "729aa6d9888519fe2a6d3818cf0570e9",
+        "LinkType": "Official Web Site",
+        "EntityID": "13760",
+        "EntityType": "RecArea",
+        "Title": "",
+        "Description": "",
+        "URL": "http://www.fhwa.dot.gov/byways/byways/57185"
+      }
+    ],
+    "MEDIA": [
+      {
+        "EntityMediaID": "1535",
+        "MediaType": "Image",
+        "EntityID": "13760",
+        "EntityType": "RecArea",
+        "Title": "The Erie Canal - The Waterway West",
+        "Subtitle": "",
+        "Description": "",
+        "EmbedCode": "",
+        "Height": 0,
+        "Width": 0,
+        "URL": "https://cdn.recreation.gov/public/images/1535.jpg",
+        "Credits": "",
+        "IsPrimary": false,
+        "IsPreview": false,
+        "IsGallery": true
+      }
+    ]
+  },
+  {
+    "RecAreaID": "13882",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "133",
+    "RecAreaName": "Transcontinental Railroad Back Country Byway",
+    "RecAreaDescription": "<p>Although one might look at Utah’s northwestern region and see nothing but vast, isolated desert, a sharp observer would see a historical playground distinguished by the Transcontinental Backcountry Byway. Traversing the flat lands of the Great Salt Lake Desert, the byway stretches between the area just west of Golden Spike National Historic Site and the Utah-Nevada border, following the deserted Central Pacific Railroad grade lain in 1903.</p>",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "<p><strong>Navigating the Byway:</strong><br /><h3>Driving the Byway</h3>\n\n<p>To travel this back country byway, the only developed road in the area, begin on the west side of the Golden Spike National Historic Site, located 32 miles west of Brigham City. From there, travel on a dirt road across the desert following the abandoned Central Pacific Railroad grade through the old town sites of Kelton, Terrace, and Watercress to Lucin and the Utah/Nevada border, where the byway ends.</p>\n\n</p>",
+    "RecAreaPhone": "801-977-4300",
+    "RecAreaEmail": "",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "http://library.byways.org/a/static_maps/000/000/956/Transcontinental_map.gif",
+    "GEOJSON": {
+      "TYPE": "",
+      "COORDINATES": null
+    },
+    "RecAreaLongitude": 0,
+    "RecAreaLatitude": 0,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2018-08-26",
+    "ORGANIZATION": [
+      {
+        "OrgID": "133",
+        "OrgName": "Department of Transportation",
+        "OrgImageURL": "dot.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.dot.gov",
+        "OrgType": "Federal Department",
+        "OrgAbbrevName": "DOT",
+        "OrgJurisdictionType": "Federal",
+        "OrgParentID": "157",
+        "LastUpdatedDate": "2019-02-14"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "10588",
+        "RecAreaID": "13882",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "2 East 91st Street",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "New York",
+        "PostalCode": "10128",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2018-10-12"
+      }
+    ],
+    "ACTIVITY": [],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "c43115758ea1f0871764d605a9126d54",
+        "LinkType": "Map",
+        "EntityID": "13882",
+        "EntityType": "RecArea",
+        "Title": "Transcontinental Railroad Back Country Byway Map",
+        "Description": "",
+        "URL": "http://library.byways.org/a/static_maps/000/000/956/Transcontinental_map.gif"
+      },
+      {
+        "EntityLinkID": "876a5a20f091b2f0a06c965a0906949b",
+        "LinkType": "Official Web Site",
+        "EntityID": "13882",
+        "EntityType": "RecArea",
+        "Title": "",
+        "Description": "",
+        "URL": "http://www.fhwa.dot.gov/byways/byways/68996"
+      }
+    ],
+    "MEDIA": []
+  },
+  {
+    "RecAreaID": "1437",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "127",
+    "RecAreaName": "Iroquois National Wildlife Refuge",
+    "RecAreaDescription": "Iroquois National Wildlife Refuge lies midway between Buffalo and Rochester, NY, within the Atlantic Flyway.  The relatively flat terrain encompasses 10,828 acres of habitat.  Freshwater\r\nmarshes and hardwood swamps border or are fed by Oak Orchard Creek which meanders east to west before leaving the refuge to empty into Lake Ontario 20 miles away.  Forests, meadows and fields slope up gently from the wetland's edge.\r\nWhen planning for your trip to the refuge you should contact the refuge headquarters to gather pertinent information on the refuge and surrounding area.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "From the New York State Thruway (I-90) take exit 48-A (Pembroke/Medina).  Go north on Route 77 for approximately 8 miles. At the 4-way stop light in Alabama Center continue straight for one more mile to Casey Road.  Turn left on Casey Rd.  The Headquarters Building is one mile west.",
+    "RecAreaPhone": "585-948-5445",
+    "RecAreaEmail": "iroquois@fws.gov",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "",
+    "GEOJSON": {
+      "TYPE": "Point",
+      "COORDINATES": [-78.403878, 43.112621]
+    },
+    "RecAreaLongitude": -78.403878,
+    "RecAreaLatitude": 43.112621,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2019-09-25",
+    "ORGANIZATION": [
+      {
+        "OrgID": "127",
+        "OrgName": "Fish and Wildlife Service",
+        "OrgImageURL": "fws.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.fws.gov",
+        "OrgType": "Federal Agency",
+        "OrgAbbrevName": "FWS",
+        "OrgJurisdictionType": "State",
+        "OrgParentID": "139",
+        "LastUpdatedDate": "2018-06-26"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "609067",
+        "RecAreaID": "1437",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "1101 Casey Road",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Basom",
+        "PostalCode": "14013",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "0001-01-01"
+      }
+    ],
+    "ACTIVITY": [
+      {
+        "ActivityID": 6,
+        "ActivityParentID": "",
+        "RecAreaID": "1437",
+        "ActivityName": "BOATING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 10,
+        "ActivityParentID": "",
+        "RecAreaID": "1437",
+        "ActivityName": "INTERPRETIVE PROGRAMS",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 11,
+        "ActivityParentID": "",
+        "RecAreaID": "1437",
+        "ActivityName": "FISHING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 14,
+        "ActivityParentID": "",
+        "RecAreaID": "1437",
+        "ActivityName": "HIKING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 16,
+        "ActivityParentID": "",
+        "RecAreaID": "1437",
+        "ActivityName": "HUNTING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 22,
+        "ActivityParentID": "",
+        "RecAreaID": "1437",
+        "ActivityName": "WINTER SPORTS",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 26,
+        "ActivityParentID": "",
+        "RecAreaID": "1437",
+        "ActivityName": "WILDLIFE VIEWING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 105,
+        "ActivityParentID": "",
+        "RecAreaID": "1437",
+        "ActivityName": "PADDLING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      }
+    ],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "24e31f07c8f76cd99a250fff0c9bdc1b",
+        "LinkType": "Official Web Site",
+        "EntityID": "1437",
+        "EntityType": "RecArea",
+        "Title": "Iroquois National Wildlife Refuge",
+        "Description": "",
+        "URL": "http://www.fws.gov/refuge/iroquois/"
+      }
+    ],
+    "MEDIA": []
+  },
+  {
+    "RecAreaID": "1524",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "127",
+    "RecAreaName": "Montezuma National Wildlife Refuge",
+    "RecAreaDescription": "Montezuma National Wildlife Refuge lies at the north end of Cayuga Lake, in the heart of the Finger Lakes Region of New York State. Located between Syracuse and Rochester, in Seneca and Wayne Counties, Montezuma serves as a major resting area for waterfowl and other waterbirds on their journeys to and from nesting areas in northeastern and east-central Canada. \r\n\r\n\r\n\r\nFall peaks of Canada geese reach over 60,000 birds; in spring this number has exceeded 100,000.  Spring migration peaks of snow geese have recently exceeded 100,000 birds.  Late fall use by mallards has exceeded 100,000 birds.  Use by American black ducks in the fall often reaches 25,000.\r\n\r\n\r\n\r\nBald eagles have resided on the refuge since 1986, first producing offspring in 1987. Several pair of osprey also nest on the refuge.  There are established nesting colonies of black terns, black-crowned night-herons, and great blue herons.  Dewatered refuge impoundments provide significant foraging habitat for shorebirds during the late summer and fall.\r\n\r\n\r\n\r\nCurrently, the refuge consists of more than 8,000 acres as efforts to restore and preserve the marsh continue with the Montezuma Wetlands Complex. This project involves the Service, New York State Department of Environmental Conservation,\r\n\r\nconservation organizations, corporations, and private landowners, all working together to restore and enhance wetland habitats and the populations of wetland-dependant wildlife on 36,050 acres of the former Montezuma Marsh. The Montezuma Wetlands Complex is part of the North American Waterfowl Management Plan, an international agreement between the United States, Canada, and Mexico that seeks to restore, conserve, and enhance wetland habitats and waterfowl populations throughout North America.  The National Audubon Society recognized the Montezuma Wetlands Complex as its first Important Bird Area in New York, as well as a Globally Important Bird Area.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "Driving Directions\r\n\r\nThe refuge entrance is located on  NY 5 & US 20 between Seneca Falls and Auburn and is just minutes from Exit 41 on the New York State Thruway. From exit 41, turn right onto NY 414.  At the first stop light, turn left onto NY 318 and follow for approximately 5 miles to the end of NY 318.  Turn left onto NY 5 & US 20 and follow for 1.25 miles; turn left into the refuge entrance.",
+    "RecAreaPhone": "315-568-5987",
+    "RecAreaEmail": "Andrea_VanBeusichem@fws.gov",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "",
+    "GEOJSON": {
+      "TYPE": "Point",
+      "COORDINATES": [-76.740909, 42.966987]
+    },
+    "RecAreaLongitude": -76.740909,
+    "RecAreaLatitude": 42.966987,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2019-09-25",
+    "ORGANIZATION": [
+      {
+        "OrgID": "127",
+        "OrgName": "Fish and Wildlife Service",
+        "OrgImageURL": "fws.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.fws.gov",
+        "OrgType": "Federal Agency",
+        "OrgAbbrevName": "FWS",
+        "OrgJurisdictionType": "State",
+        "OrgParentID": "139",
+        "LastUpdatedDate": "2018-06-26"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "624853",
+        "RecAreaID": "1524",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "3395 Route 5/20 East ",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Seneca Falls",
+        "PostalCode": "13148",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "0001-01-01"
+      }
+    ],
+    "ACTIVITY": [
+      {
+        "ActivityID": 4,
+        "ActivityParentID": "",
+        "RecAreaID": "1524",
+        "ActivityName": "AUTO TOURING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 6,
+        "ActivityParentID": "",
+        "RecAreaID": "1524",
+        "ActivityName": "BOATING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 10,
+        "ActivityParentID": "",
+        "RecAreaID": "1524",
+        "ActivityName": "INTERPRETIVE PROGRAMS",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 11,
+        "ActivityParentID": "",
+        "RecAreaID": "1524",
+        "ActivityName": "FISHING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 14,
+        "ActivityParentID": "",
+        "RecAreaID": "1524",
+        "ActivityName": "HIKING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 16,
+        "ActivityParentID": "",
+        "RecAreaID": "1524",
+        "ActivityName": "HUNTING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 24,
+        "ActivityParentID": "",
+        "RecAreaID": "1524",
+        "ActivityName": "VISITOR CENTER",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 26,
+        "ActivityParentID": "",
+        "RecAreaID": "1524",
+        "ActivityName": "WILDLIFE VIEWING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 103,
+        "ActivityParentID": "",
+        "RecAreaID": "1524",
+        "ActivityName": "ENVIRONMENTAL EDUCATION",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 104,
+        "ActivityParentID": "",
+        "RecAreaID": "1524",
+        "ActivityName": "PHOTOGRAPHY",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 105,
+        "ActivityParentID": "",
+        "RecAreaID": "1524",
+        "ActivityName": "PADDLING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      }
+    ],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "2cf7dff61e551e39758e89e55695cf22",
+        "LinkType": "Official Web Site",
+        "EntityID": "1524",
+        "EntityType": "RecArea",
+        "Title": "Montezuma National Wildlife Refuge",
+        "Description": "",
+        "URL": "http://www.fws.gov/refuge/montezuma/"
+      }
+    ],
+    "MEDIA": [
+      {
+        "EntityMediaID": "f4d3e73a-9f42-4c7f-a041-d8e3dd542514",
+        "MediaType": "Image",
+        "EntityID": "1524",
+        "EntityType": "RecArea",
+        "Title": "Montezuma National Wildlife Refuge",
+        "Subtitle": "",
+        "Description": "Northern Harrier at Montezuma National Wildlife Refuge",
+        "EmbedCode": "",
+        "Height": 526,
+        "Width": 700,
+        "URL": "https://cdn.recreation.gov/public/2018/10/02/12/27/1524_74c647f3-5396-4483-bff4-5f9efa9c3613_700.jpg",
+        "Credits": "Doug Racine/USFWS",
+        "IsPrimary": false,
+        "IsPreview": true,
+        "IsGallery": false
+      },
+      {
+        "EntityMediaID": "b42a3c5a-791e-4f59-b70f-8899e5093039",
+        "MediaType": "Image",
+        "EntityID": "1524",
+        "EntityType": "RecArea",
+        "Title": "Montezuma National Wildlife Refuge",
+        "Subtitle": "",
+        "Description": "Northern Harrier at Montezuma National Wildlife Refuge",
+        "EmbedCode": "",
+        "Height": 340,
+        "Width": 1440,
+        "URL": "https://cdn.recreation.gov/public/2018/10/02/12/26/1524_79615382-432c-448c-ad06-a6b3ea5eb5d7_1440.jpg",
+        "Credits": "Doug Racine/USFWS",
+        "IsPrimary": true,
+        "IsPreview": false,
+        "IsGallery": false
+      }
+    ]
+  },
+  {
+    "RecAreaID": "1552",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "127",
+    "RecAreaName": "Oyster Bay National Wildlife Refuge",
+    "RecAreaDescription": "The Oyster Bay NWR on the north shore of Long Island consists of high quality marine habitats that support a variety of aquatic-dependent wildlife. The refuge's waters and marshes surround Sagamore Hill National Historic Site, home of Theodore Roosevelt - father of the National Wildlife Refuge System. Subtidal (underwater up to mean high tide line) habitats are abundant with marine invertebrates, shellfish and fish. \n\n\n\nMarine invertebrate and fish communities support a complex food web from waterfowl to fish-eating birds, to marine mammals. Waterfowl use of the Refuge peaks from October through April. Over 20,000 ducks have been documented on the refuge during one survey. Over 25 species of waterfowl, along with numerous other waterbirds, depend on Oyster Bay for survival. The most common marine mammals at the refuge are harbor seals - which have become more noticeable during recent years. Sea turtles and diamondback terrapins can also be sighted at the Refuge.  \n\n\n\nNew York State's only remaining commercial oyster farm operates on the refuge, producing 90% of the State's oyster harvest.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "Access to the refuge is limited to private boats and rentals. Residents outside of Oyster Bay may enter the refuge by boat from Long Island Sound. Visitors in vehicles may travel local roads adjacent to the refuge.  The refuge does not provide parking.  Mill Pond, part of the Refuge, is located off West Main Street. Onsite parking is not available.",
+    "RecAreaPhone": "631-286-0485",
+    "RecAreaEmail": "longislandrefuges@fws.gov",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "",
+    "GEOJSON": {
+      "TYPE": "Point",
+      "COORDINATES": [-73.53472137, 40.8959885]
+    },
+    "RecAreaLongitude": -73.53472137,
+    "RecAreaLatitude": 40.8959885,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2019-09-25",
+    "ORGANIZATION": [
+      {
+        "OrgID": "127",
+        "OrgName": "Fish and Wildlife Service",
+        "OrgImageURL": "fws.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.fws.gov",
+        "OrgType": "Federal Agency",
+        "OrgAbbrevName": "FWS",
+        "OrgJurisdictionType": "State",
+        "OrgParentID": "139",
+        "LastUpdatedDate": "2018-06-26"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "2138",
+        "RecAreaID": "1552",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "N/A",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Oyster Bay",
+        "PostalCode": "11771",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2007-03-06"
+      }
+    ],
+    "ACTIVITY": [
+      {
+        "ActivityID": 6,
+        "ActivityParentID": "",
+        "RecAreaID": "1552",
+        "ActivityName": "BOATING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 10,
+        "ActivityParentID": "",
+        "RecAreaID": "1552",
+        "ActivityName": "INTERPRETIVE PROGRAMS",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 11,
+        "ActivityParentID": "",
+        "RecAreaID": "1552",
+        "ActivityName": "FISHING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      }
+    ],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "addd175aab5abef296395991c9083e8e",
+        "LinkType": "Official Web Site",
+        "EntityID": "1552",
+        "EntityType": "RecArea",
+        "Title": "",
+        "Description": "",
+        "URL": "http://www.fws.gov/northeast/longislandrefuges/"
+      }
+    ],
+    "MEDIA": []
+  },
+  {
+    "RecAreaID": "1636",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "127",
+    "RecAreaName": "Target Rock National Wildlife Refuge",
+    "RecAreaDescription": "The Target Rock National Wildlife Refuge is located on the north shore of Long Island, 25 miles east of New York City. \n\n\n\nThis 80-acre refuge is composed of mature oak-hickory forest, a half-mile rocky beach, a brackish pond, and several vernal ponds.  The land and waters support a variety of songbirds (particularly warblers during spring migration), mammals, shorebirds, fish, reptiles and amphibians.  During the colder months, diving ducks are common offshore, while harbor seals occasionally use the beach and nearby rocks as resting sites.  NY State and Federally protected piping plover, least tern, and common tern depend on the Refuge's rocky shore for foraging and rearing young.  \n\n\n\nThe spring bloom at Target Rock is a reminder of its days as a garden estate, with flowering rhododendrons and mountain laurel.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "From Main Street (Route 25A) in the Village of Huntington, take West Neck Road for 5 miles, continue on Lloyd Neck Road which ends at Target Rock Road, follow Target Rock Road for 1/2 mile, the entrance is on the right. The refuge entrance is 2.2 miles east of Caumsett State Park.",
+    "RecAreaPhone": "631-286-0485",
+    "RecAreaEmail": "longislandrefuges@fws.gov",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "",
+    "GEOJSON": {
+      "TYPE": "Point",
+      "COORDINATES": [-73.44012451, 40.92851257]
+    },
+    "RecAreaLongitude": -73.44012451,
+    "RecAreaLatitude": 40.92851257,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2019-09-25",
+    "ORGANIZATION": [
+      {
+        "OrgID": "127",
+        "OrgName": "Fish and Wildlife Service",
+        "OrgImageURL": "fws.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.fws.gov",
+        "OrgType": "Federal Agency",
+        "OrgAbbrevName": "FWS",
+        "OrgJurisdictionType": "State",
+        "OrgParentID": "139",
+        "LastUpdatedDate": "2018-06-26"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "2188",
+        "RecAreaID": "1636",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "12 Target Rock Rd.",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Huntington",
+        "PostalCode": "11743",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2007-03-06"
+      }
+    ],
+    "ACTIVITY": [
+      {
+        "ActivityID": 10,
+        "ActivityParentID": "",
+        "RecAreaID": "1636",
+        "ActivityName": "INTERPRETIVE PROGRAMS",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 11,
+        "ActivityParentID": "",
+        "RecAreaID": "1636",
+        "ActivityName": "FISHING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 14,
+        "ActivityParentID": "",
+        "RecAreaID": "1636",
+        "ActivityName": "HIKING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      }
+    ],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "b29829af5e899777791b163b698ffeda",
+        "LinkType": "Official Web Site",
+        "EntityID": "1636",
+        "EntityType": "RecArea",
+        "Title": "",
+        "Description": "",
+        "URL": "http://www.fws.gov/northeast/longislandrefuges/"
+      }
+    ],
+    "MEDIA": []
+  },
+  {
+    "RecAreaID": "1669",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "127",
+    "RecAreaName": "Wertheim National Wildlife Refuge",
+    "RecAreaDescription": "The Wertheim National Wildlife Refuge on the south shore of Long Island is one of the last undeveloped estuary systems remaining on Long Island. Approximately half of the refuge consists of aquatic habitats including bay with marine seagrass beds, intertidal saltmarsh, high saltmarsh, freshwater marsh, shrub swamp, and red maple swamp. The refuge's saltmarshes, combined with the adjacent New York State-owned saltmarsh, form the largest continuous saltmarsh on Long Island. \n\n\n\nThe remaining half of the refuge is upland featuring the rare Pine Barren habitats of pitch pine, oak-pine, mixed oak, pioneer hardwood, upland shrub, and grasslands.  \n\n\n\nThe refuge's wildlife populations are quite diverse.  About 300 species of birds have been documented at Wertheim. The refuge winters up to 5,000 waterfowl, the majority being black ducks - a species in nationwide decline. The coastal location also makes this refuge an excellent migration corridor for shorebirds, raptors and songbirds. \n\n\n\nThe main purpose for establishing the refuge was to protect the Carmans River Estuary for migratory birds.  The River is a NY State-designated Wild and Scenic river and one of the Island's largest.  The refuge supports eight Federal and/or New York State protected species.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "Long Island Expwy. (I-495), Exit 68S, or Sunrise Hwy. (Rte.27), Exit 58S, to the William Floyd Pkwy. (CR46S). From the junction of William Floyd parkway and Montauk Highway (Rte. 27A/CR80) proceed west on Montauk (CR 80W) for approximately one mile, turn south onto Smith Road. Go 1/4 mile to the refuge entrance on the right.",
+    "RecAreaPhone": "631-286-0485",
+    "RecAreaEmail": "longislandrefuges@fws.gov",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "",
+    "GEOJSON": {
+      "TYPE": "Point",
+      "COORDINATES": [-72.8797, 40.7966]
+    },
+    "RecAreaLongitude": -72.8797,
+    "RecAreaLatitude": 40.7966,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2019-09-25",
+    "ORGANIZATION": [
+      {
+        "OrgID": "127",
+        "OrgName": "Fish and Wildlife Service",
+        "OrgImageURL": "fws.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.fws.gov",
+        "OrgType": "Federal Agency",
+        "OrgAbbrevName": "FWS",
+        "OrgJurisdictionType": "State",
+        "OrgParentID": "139",
+        "LastUpdatedDate": "2018-06-26"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "808",
+        "RecAreaID": "1669",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "360 Smith Rd.",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Shirley",
+        "PostalCode": "11967",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2007-03-06"
+      }
+    ],
+    "ACTIVITY": [
+      {
+        "ActivityID": 6,
+        "ActivityParentID": "",
+        "RecAreaID": "1669",
+        "ActivityName": "BOATING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 8,
+        "ActivityParentID": "",
+        "RecAreaID": "1669",
+        "ActivityName": "HISTORIC & CULTURAL SITE",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 10,
+        "ActivityParentID": "",
+        "RecAreaID": "1669",
+        "ActivityName": "INTERPRETIVE PROGRAMS",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 11,
+        "ActivityParentID": "",
+        "RecAreaID": "1669",
+        "ActivityName": "FISHING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 14,
+        "ActivityParentID": "",
+        "RecAreaID": "1669",
+        "ActivityName": "HIKING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 26,
+        "ActivityParentID": "",
+        "RecAreaID": "1669",
+        "ActivityName": "WILDLIFE VIEWING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      }
+    ],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "39fcbf70fc2ab3697526f972b07acb15",
+        "LinkType": "Official Web Site",
+        "EntityID": "1669",
+        "EntityType": "RecArea",
+        "Title": "",
+        "Description": "",
+        "URL": "http://www.fws.gov/northeast/longislandrefuges/"
+      }
+    ],
+    "MEDIA": [
+      {
+        "EntityMediaID": "e427923e-78f9-4360-869c-9a92688265f8",
+        "MediaType": "Image",
+        "EntityID": "1669",
+        "EntityType": "RecArea",
+        "Title": "Wertheim National Wildlife Refuge",
+        "Subtitle": "",
+        "Description": "Wertheim National Wildlife Refuge",
+        "EmbedCode": "",
+        "Height": 340,
+        "Width": 1440,
+        "URL": "https://cdn.recreation.gov/public/2018/10/04/15/09/1669_0a0ba5e2-1fef-4536-b483-11512a0fa029_1440.jpg",
+        "Credits": "USFWS",
+        "IsPrimary": true,
+        "IsPreview": false,
+        "IsGallery": false
+      },
+      {
+        "EntityMediaID": "49802f1a-a7c8-4836-87cc-5c3c8bf3c7e1",
+        "MediaType": "Image",
+        "EntityID": "1669",
+        "EntityType": "RecArea",
+        "Title": "Wertheim National Wildlife Refuge",
+        "Subtitle": "",
+        "Description": "Wertheim National Wildlife Refuge",
+        "EmbedCode": "",
+        "Height": 525,
+        "Width": 700,
+        "URL": "https://cdn.recreation.gov/public/2018/10/04/15/09/1669_337938c2-6cbb-4e2e-a0d8-1d90d3f08df1_700.jpg",
+        "Credits": "USFWS",
+        "IsPrimary": false,
+        "IsPreview": true,
+        "IsGallery": false
+      }
+    ]
+  },
+  {
+    "RecAreaID": "181",
+    "OrgRecAreaID": "181",
+    "ParentOrgID": "130",
+    "RecAreaName": "Almond Lake",
+    "RecAreaDescription": "Kanakadea Park operated by Stuben County, NY is located on Almond Lake. Camping and day use facilities for picnicing and boating are available.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "From Hornell, 2 miles S on NY 21.",
+    "RecAreaPhone": "(607) 324-6531",
+    "RecAreaEmail": "",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "",
+    "GEOJSON": {
+      "TYPE": "Point",
+      "COORDINATES": [-77.709783, 42.34427]
+    },
+    "RecAreaLongitude": -77.709783,
+    "RecAreaLatitude": 42.34427,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2019-09-25",
+    "ORGANIZATION": [
+      {
+        "OrgID": "130",
+        "OrgName": "US Army Corps of Engineers",
+        "OrgImageURL": "uasce.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.usace.army.mil",
+        "OrgType": "Federal Agency",
+        "OrgAbbrevName": "USACE",
+        "OrgJurisdictionType": "State",
+        "OrgParentID": "162",
+        "LastUpdatedDate": "2018-06-26"
+      }
+    ],
+    "FACILITY": [
+      {
+        "FacilityID": "248176",
+        "FacilityName": "Kanakadea Recreation Area",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/248176"
+      }
+    ],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "465664",
+        "RecAreaID": "181",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "P.O. Box 400",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Danville",
+        "PostalCode": "17821",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2015-06-30"
+      }
+    ],
+    "ACTIVITY": [
+      {
+        "ActivityID": 6,
+        "ActivityParentID": "",
+        "RecAreaID": "181",
+        "ActivityName": "BOATING",
+        "RecAreaActivityDescription": "Boating",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 9,
+        "ActivityParentID": "",
+        "RecAreaID": "181",
+        "ActivityName": "CAMPING",
+        "RecAreaActivityDescription": "Camping",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 14,
+        "ActivityParentID": "",
+        "RecAreaID": "181",
+        "ActivityName": "HIKING",
+        "RecAreaActivityDescription": "Hiking",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 20,
+        "ActivityParentID": "",
+        "RecAreaID": "181",
+        "ActivityName": "PICNICKING",
+        "RecAreaActivityDescription": "Picnic",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 25,
+        "ActivityParentID": "",
+        "RecAreaID": "181",
+        "ActivityName": "WATER SPORTS",
+        "RecAreaActivityDescription": "Water Sports",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 26,
+        "ActivityParentID": "",
+        "RecAreaID": "181",
+        "ActivityName": "WILDLIFE VIEWING",
+        "RecAreaActivityDescription": "Wildlife Viewing",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 37,
+        "ActivityParentID": "",
+        "RecAreaID": "181",
+        "ActivityName": "PLAYGROUND PARK SPECIALIZED SPORT SITE",
+        "RecAreaActivityDescription": "Playground",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 44,
+        "ActivityParentID": "",
+        "RecAreaID": "181",
+        "ActivityName": "HOTEL/LODGE/RESORT PRIVATELY OWNED",
+        "RecAreaActivityDescription": "Lodging",
+        "RecAreaActivityFeeDescription": ""
+      }
+    ],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "b5466954ec7513b543f3b1bef2cced24",
+        "LinkType": "Official Web Site",
+        "EntityID": "181",
+        "EntityType": "RecArea",
+        "Title": "Almond Lake Website",
+        "Description": "",
+        "URL": "https://corpsLakes.erdc.dren.mil/visitors/projects.cfm?ID=E100240"
+      },
+      {
+        "EntityLinkID": "6712403cc380976fbd2e7b634c005ace",
+        "LinkType": "Other",
+        "EntityID": "181",
+        "EntityType": "RecArea",
+        "Title": "Almond Lake Photo Album",
+        "Description": "",
+        "URL": "https://corpsLakes.erdc.dren.mil/visitors/album.cfm?Option=View&Activity=None&ID=E100240"
+      }
+    ],
+    "MEDIA": [
+      {
+        "EntityMediaID": "326189",
+        "MediaType": "Image",
+        "EntityID": "181",
+        "EntityType": "RecArea",
+        "Title": "",
+        "Subtitle": "",
+        "Description": "",
+        "EmbedCode": "",
+        "Height": 295,
+        "Width": 480,
+        "URL": "https://cdn.recreation.gov/public/images/2322.jpg",
+        "Credits": "",
+        "IsPrimary": false,
+        "IsPreview": false,
+        "IsGallery": true
+      }
+    ]
+  },
+  {
+    "RecAreaID": "1821",
+    "OrgRecAreaID": "1821",
+    "ParentOrgID": "130",
+    "RecAreaName": "Mount Morris Dam and Recreation Area",
+    "RecAreaDescription": "The US Army Corps of Engineers built the Mount Morris Dam in the late 1940s to reduce flooding on the lower Genesee River.  Today, the dam continues to provide flood protection along 67 miles of the Genesee River Valley from the village of Mount Morris to downtown Rochester where the river enters Lake Ontario. \n<p>The US Army Corps of Engineers proudly promotes stewardship of public lands and waters.  In fact, the 20 mile upstream section of the Genesee River is safe guarded by the Genesee River Protection Act of 1989, which allows the dam to hold back water only to prevent flooding. Typically, the Genesee flows freely through the dam without interference. However, when the dam is preventing flooding, the water backs up to fill Letchworth Canyon until it can be released at a rate that will not cause flooding downstream.  \n<p>Mount Morris Dam and Recreation Area is a day use park that offers a beautiful setting overlooking Letchworth Canyon, known as the \"Grand Canyon of the East\".  Explore the Visitor Center to learn more about the dam or join us for a free ranger guided walking tour of the Mount Morris Dam.  Spend time outside on the park grounds to enjoy captivating overlooks, picnic shelters, and a playground.  This is a great place to hike, bike, or view wildlife.  During the winter, explore the trails on snowshoes or cross country skis.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "Mount Morris Dam and Recreation Area is located approx. 1.7 miles south of Mount Morris and 11 miles north of Nunda on SR 408. \n\n<br>From the North: (Interstate 90) take 390S to exit 7 - Mount Morris/Letchworth, 5 miles south on Route 408. Turn onto Visitor Center Rd; continue for about 2 miles. \n\n<br>From the South: (Route 17, I-86) take 390N to exit 6 - Sonyea, 7 miles north on Route 36, then two miles south on Route 408. Turn onto Visitor Center Rd; continue for about 2 miles.",
+    "RecAreaPhone": "(585) 658-4790",
+    "RecAreaEmail": "",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "",
+    "GEOJSON": {
+      "TYPE": "Point",
+      "COORDINATES": [-77.905869, 42.697733]
+    },
+    "RecAreaLongitude": -77.905869,
+    "RecAreaLatitude": 42.697733,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2019-09-25",
+    "ORGANIZATION": [
+      {
+        "OrgID": "130",
+        "OrgName": "US Army Corps of Engineers",
+        "OrgImageURL": "uasce.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.usace.army.mil",
+        "OrgType": "Federal Agency",
+        "OrgAbbrevName": "USACE",
+        "OrgJurisdictionType": "State",
+        "OrgParentID": "162",
+        "LastUpdatedDate": "2018-06-26"
+      }
+    ],
+    "FACILITY": [
+      {
+        "FacilityID": "248178",
+        "FacilityName": "William B. Hoyt II Visitor Center",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/248178"
+      }
+    ],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "465666",
+        "RecAreaID": "1821",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "6103 Visitor Center Road",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Mount Morris",
+        "PostalCode": "14510-9527",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2015-06-30"
+      }
+    ],
+    "ACTIVITY": [
+      {
+        "ActivityID": 6,
+        "ActivityParentID": "",
+        "RecAreaID": "1821",
+        "ActivityName": "BOATING",
+        "RecAreaActivityDescription": "Boating",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 14,
+        "ActivityParentID": "",
+        "RecAreaID": "1821",
+        "ActivityName": "HIKING",
+        "RecAreaActivityDescription": "Hiking",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 20,
+        "ActivityParentID": "",
+        "RecAreaID": "1821",
+        "ActivityName": "PICNICKING",
+        "RecAreaActivityDescription": "Picnic",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 22,
+        "ActivityParentID": "",
+        "RecAreaID": "1821",
+        "ActivityName": "WINTER SPORTS",
+        "RecAreaActivityDescription": "Winter Sports",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 24,
+        "ActivityParentID": "",
+        "RecAreaID": "1821",
+        "ActivityName": "VISITOR CENTER",
+        "RecAreaActivityDescription": "Visitor Center",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 25,
+        "ActivityParentID": "",
+        "RecAreaID": "1821",
+        "ActivityName": "WATER SPORTS",
+        "RecAreaActivityDescription": "Water Sports",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 37,
+        "ActivityParentID": "",
+        "RecAreaID": "1821",
+        "ActivityName": "PLAYGROUND PARK SPECIALIZED SPORT SITE",
+        "RecAreaActivityDescription": "Playground",
+        "RecAreaActivityFeeDescription": ""
+      }
+    ],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "c39e244451df1c9dd4bd629161eefb0a",
+        "LinkType": "Official Web Site",
+        "EntityID": "1821",
+        "EntityType": "RecArea",
+        "Title": "Mount Morris Dam and Recreation Area Website",
+        "Description": "",
+        "URL": "https://corpsLakes.erdc.dren.mil/visitors/projects.cfm?ID=11940"
+      },
+      {
+        "EntityLinkID": "fbe724fdb1954b681d3becfb0e901a43",
+        "LinkType": "Other",
+        "EntityID": "1821",
+        "EntityType": "RecArea",
+        "Title": "Mount Morris Dam and Recreation Area Photo Album",
+        "Description": "",
+        "URL": "https://corpsLakes.erdc.dren.mil/visitors/album.cfm?Option=View&Activity=None&ID=11940"
+      }
+    ],
+    "MEDIA": [
+      {
+        "EntityMediaID": "326191",
+        "MediaType": "Image",
+        "EntityID": "1821",
+        "EntityType": "RecArea",
+        "Title": "",
+        "Subtitle": "",
+        "Description": "",
+        "EmbedCode": "",
+        "Height": 295,
+        "Width": 480,
+        "URL": "https://cdn.recreation.gov/public/images/2324.jpg",
+        "Credits": "",
+        "IsPrimary": false,
+        "IsPreview": false,
+        "IsGallery": true
+      }
+    ]
+  },
+  {
+    "RecAreaID": "186",
+    "OrgRecAreaID": "186",
+    "ParentOrgID": "130",
+    "RecAreaName": "East Sidney Lake",
+    "RecAreaDescription": "The recreation area is lease to the Town of Sidney, NY. Facilities include camping, picnic area, boat launch and beach.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "From Binghamton, E on I-88 to Unadilla, 5 miles E on NY 357 to the park.",
+    "RecAreaPhone": "(607) 829-6006",
+    "RecAreaEmail": "",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "",
+    "GEOJSON": {
+      "TYPE": "Point",
+      "COORDINATES": [-75.22333, 42.325]
+    },
+    "RecAreaLongitude": -75.22333,
+    "RecAreaLatitude": 42.325,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2019-09-25",
+    "ORGANIZATION": [
+      {
+        "OrgID": "130",
+        "OrgName": "US Army Corps of Engineers",
+        "OrgImageURL": "uasce.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.usace.army.mil",
+        "OrgType": "Federal Agency",
+        "OrgAbbrevName": "USACE",
+        "OrgJurisdictionType": "State",
+        "OrgParentID": "162",
+        "LastUpdatedDate": "2018-06-26"
+      }
+    ],
+    "FACILITY": [
+      {
+        "FacilityID": "248177",
+        "FacilityName": "East Sidney Dam Recreation Area",
+        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/248177"
+      }
+    ],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "465665",
+        "RecAreaID": "186",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "306 Railroad St.",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Danville",
+        "PostalCode": "17821",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2015-06-30"
+      }
+    ],
+    "ACTIVITY": [
+      {
+        "ActivityID": 6,
+        "ActivityParentID": "",
+        "RecAreaID": "186",
+        "ActivityName": "BOATING",
+        "RecAreaActivityDescription": "Boating",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 9,
+        "ActivityParentID": "",
+        "RecAreaID": "186",
+        "ActivityName": "CAMPING",
+        "RecAreaActivityDescription": "Camping",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 11,
+        "ActivityParentID": "",
+        "RecAreaID": "186",
+        "ActivityName": "FISHING",
+        "RecAreaActivityDescription": "Fishing",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 20,
+        "ActivityParentID": "",
+        "RecAreaID": "186",
+        "ActivityName": "PICNICKING",
+        "RecAreaActivityDescription": "Picnic",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 25,
+        "ActivityParentID": "",
+        "RecAreaID": "186",
+        "ActivityName": "WATER SPORTS",
+        "RecAreaActivityDescription": "Water Sports",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 26,
+        "ActivityParentID": "",
+        "RecAreaID": "186",
+        "ActivityName": "WILDLIFE VIEWING",
+        "RecAreaActivityDescription": "Wildlife Viewing",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 37,
+        "ActivityParentID": "",
+        "RecAreaID": "186",
+        "ActivityName": "PLAYGROUND PARK SPECIALIZED SPORT SITE",
+        "RecAreaActivityDescription": "Playground",
+        "RecAreaActivityFeeDescription": ""
+      }
+    ],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "e05bce93de3a917871de9d849e20364e",
+        "LinkType": "Official Web Site",
+        "EntityID": "186",
+        "EntityType": "RecArea",
+        "Title": "East Sidney Lake Website",
+        "Description": "",
+        "URL": "https://corpsLakes.erdc.dren.mil/visitors/projects.cfm?ID=E105230"
+      },
+      {
+        "EntityLinkID": "e2e1fe62f246d7e8f0418c54224f12eb",
+        "LinkType": "Other",
+        "EntityID": "186",
+        "EntityType": "RecArea",
+        "Title": "East Sidney Lake Photo Album",
+        "Description": "",
+        "URL": "https://corpsLakes.erdc.dren.mil/visitors/album.cfm?Option=View&Activity=None&ID=E105230"
+      }
+    ],
+    "MEDIA": [
+      {
+        "EntityMediaID": "326190",
+        "MediaType": "Image",
+        "EntityID": "186",
+        "EntityType": "RecArea",
+        "Title": "",
+        "Subtitle": "",
+        "Description": "",
+        "EmbedCode": "",
+        "Height": 295,
+        "Width": 480,
+        "URL": "https://cdn.recreation.gov/public/images/2323.jpg",
+        "Credits": "",
+        "IsPrimary": false,
+        "IsPreview": false,
+        "IsGallery": true
+      }
+    ]
+  },
+  {
+    "RecAreaID": "189",
+    "OrgRecAreaID": "189",
+    "ParentOrgID": "130",
+    "RecAreaName": "Whitney Point",
+    "RecAreaDescription": "Broome County operates Dorchester Park on Whitney Point Lake. Day use facilities include a beach, boat launch, picnic area, pavilions and open play areas. The NYDEC manages the fishery in the lake and the surrounding forest and fields for wildlife.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "From Binghamton, 19 miles north on I-81, 3 miles north on NY 26 to park.",
+    "RecAreaPhone": "(607) 692-3165",
+    "RecAreaEmail": "",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "",
+    "GEOJSON": {
+      "TYPE": "Point",
+      "COORDINATES": [-76, 42.5]
+    },
+    "RecAreaLongitude": -76,
+    "RecAreaLatitude": 42.5,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2019-09-25",
+    "ORGANIZATION": [
+      {
+        "OrgID": "130",
+        "OrgName": "US Army Corps of Engineers",
+        "OrgImageURL": "uasce.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.usace.army.mil",
+        "OrgType": "Federal Agency",
+        "OrgAbbrevName": "USACE",
+        "OrgJurisdictionType": "State",
+        "OrgParentID": "162",
+        "LastUpdatedDate": "2018-06-26"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "465667",
+        "RecAreaID": "189",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "306 Railroad St.",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Danville",
+        "PostalCode": "17821",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2015-06-30"
+      }
+    ],
+    "ACTIVITY": [
+      {
+        "ActivityID": 5,
+        "ActivityParentID": "",
+        "RecAreaID": "189",
+        "ActivityName": "BIKING",
+        "RecAreaActivityDescription": "Biking",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 6,
+        "ActivityParentID": "",
+        "RecAreaID": "189",
+        "ActivityName": "BOATING",
+        "RecAreaActivityDescription": "Boating",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 14,
+        "ActivityParentID": "",
+        "RecAreaID": "189",
+        "ActivityName": "HIKING",
+        "RecAreaActivityDescription": "Hiking",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 20,
+        "ActivityParentID": "",
+        "RecAreaID": "189",
+        "ActivityName": "PICNICKING",
+        "RecAreaActivityDescription": "Picnic",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 22,
+        "ActivityParentID": "",
+        "RecAreaID": "189",
+        "ActivityName": "WINTER SPORTS",
+        "RecAreaActivityDescription": "Winter Sports",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 25,
+        "ActivityParentID": "",
+        "RecAreaID": "189",
+        "ActivityName": "WATER SPORTS",
+        "RecAreaActivityDescription": "Water Sports",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 26,
+        "ActivityParentID": "",
+        "RecAreaID": "189",
+        "ActivityName": "WILDLIFE VIEWING",
+        "RecAreaActivityDescription": "Wildlife Viewing",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 37,
+        "ActivityParentID": "",
+        "RecAreaID": "189",
+        "ActivityName": "PLAYGROUND PARK SPECIALIZED SPORT SITE",
+        "RecAreaActivityDescription": "Playground",
+        "RecAreaActivityFeeDescription": ""
+      }
+    ],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "ffd823be713442fea3dc3ca3d454139a",
+        "LinkType": "Official Web Site",
+        "EntityID": "189",
+        "EntityType": "RecArea",
+        "Title": "Whitney Point Website",
+        "Description": "",
+        "URL": "https://corpsLakes.erdc.dren.mil/visitors/projects.cfm?ID=E119900"
+      },
+      {
+        "EntityLinkID": "f9c683e7a4a0ac9714e4eb6827b13ea3",
+        "LinkType": "Other",
+        "EntityID": "189",
+        "EntityType": "RecArea",
+        "Title": "Whitney Point Photo Album",
+        "Description": "",
+        "URL": "https://corpsLakes.erdc.dren.mil/visitors/album.cfm?Option=View&Activity=None&ID=E119900"
+      }
+    ],
+    "MEDIA": [
+      {
+        "EntityMediaID": "326192",
+        "MediaType": "Image",
+        "EntityID": "189",
+        "EntityType": "RecArea",
+        "Title": "",
+        "Subtitle": "",
+        "Description": "",
+        "EmbedCode": "",
+        "Height": 295,
+        "Width": 480,
+        "URL": "https://cdn.recreation.gov/public/images/2325.jpg",
+        "Credits": "",
+        "IsPrimary": false,
+        "IsPreview": false,
+        "IsGallery": true
+      }
+    ]
+  },
+  {
+    "RecAreaID": "3087",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "137",
+    "RecAreaName": "Hudson River National Estuarine Research Reserve",
+    "RecAreaDescription": "The Hudson River Reserve encompasses about 5,000 acres of freshwater and brackish tidal wetlands and uplands distributed at four sites that span the middle 100 miles of the Hudson River Estuary. From north to south the sites are: Stockport Flats, Tivoli Bays, Iona Island and Piermont Marsh. The tidal Hudson River links the communities of its valley economically, culturally and ecologically and has been a cradle of human development for thousands of years. A nursery for such important fish as sturgeon, striped bass and American shad, the river is home to more than 200 species of fish. It supports a corresponding abundance of other river-dependent wildlife, especially birds. Profoundly influenced by the ocean's tides for more than half its length, the Hudson River estuary stretches 153 miles and includes a wide range of wetland habitats, from the brackish marshes of Piermont to the slightly brackish wetlands of Iona Island, and the freshwater tidal mudflats and marshes of Tivoli Bays and Stockport Flats. The Reserve's headquarters and visitors center is located at the Norrie Point Environmental Center in Staatsburg, NY.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "The Hudson River Reserve is a network of four coastal wetlands located along 100 miles of the Hudson Estuary in New York state. The Reserve components are: Piermont Marsh and Iona Island, in Rockland County; Tivoli Bays, in Dutchess County; and Stockport Flats, in Columbia County.",
+    "RecAreaPhone": "845-889-4745 x 109",
+    "RecAreaEmail": "jgherrin@gw.dec.state.ny.us",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "",
+    "GEOJSON": {
+      "TYPE": "",
+      "COORDINATES": null
+    },
+    "RecAreaLongitude": 0,
+    "RecAreaLatitude": 0,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2019-05-08",
+    "ORGANIZATION": [
+      {
+        "OrgID": "137",
+        "OrgName": "National Oceanic and Atmospheric Administration",
+        "OrgImageURL": "NOS.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.noaa.gov",
+        "OrgType": "Federal Agency",
+        "OrgAbbrevName": "NOAA",
+        "OrgJurisdictionType": "State",
+        "OrgParentID": "161",
+        "LastUpdatedDate": "2018-08-26"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "38388",
+        "RecAreaID": "3087",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "Norrie Point Environmental Center",
+        "RecAreaStreetAddress2": "Mills-Norrie State Park ",
+        "RecAreaStreetAddress3": "256 Norrie Point Way",
+        "City": "Staatsburg",
+        "PostalCode": "12580",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "0001-01-01"
+      }
+    ],
+    "ACTIVITY": [
+      {
+        "ActivityID": 6,
+        "ActivityParentID": "",
+        "RecAreaID": "3087",
+        "ActivityName": "BOATING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 10,
+        "ActivityParentID": "",
+        "RecAreaID": "3087",
+        "ActivityName": "INTERPRETIVE PROGRAMS",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 11,
+        "ActivityParentID": "",
+        "RecAreaID": "3087",
+        "ActivityName": "FISHING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 14,
+        "ActivityParentID": "",
+        "RecAreaID": "3087",
+        "ActivityName": "HIKING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 16,
+        "ActivityParentID": "",
+        "RecAreaID": "3087",
+        "ActivityName": "HUNTING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 20,
+        "ActivityParentID": "",
+        "RecAreaID": "3087",
+        "ActivityName": "PICNICKING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 24,
+        "ActivityParentID": "",
+        "RecAreaID": "3087",
+        "ActivityName": "VISITOR CENTER",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 26,
+        "ActivityParentID": "",
+        "RecAreaID": "3087",
+        "ActivityName": "WILDLIFE VIEWING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 104,
+        "ActivityParentID": "",
+        "RecAreaID": "3087",
+        "ActivityName": "PHOTOGRAPHY",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 105,
+        "ActivityParentID": "",
+        "RecAreaID": "3087",
+        "ActivityName": "PADDLING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 106,
+        "ActivityParentID": "",
+        "RecAreaID": "3087",
+        "ActivityName": "SWIMMING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      }
+    ],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "ab6a3ab3a78d99a7d33c88ec9c857a12",
+        "LinkType": "Other",
+        "EntityID": "3087",
+        "EntityType": "RecArea",
+        "Title": "NYSDEC Hudson River Research Reserve",
+        "Description": "",
+        "URL": "http://www.dec.ny.gov/lands/4915.html"
+      },
+      {
+        "EntityLinkID": "a9d1b8d8597a207ca637663b594e00f0",
+        "LinkType": "Official Web Site",
+        "EntityID": "3087",
+        "EntityType": "RecArea",
+        "Title": "National Estuarine Research Reserve System -- Hudson River, NY",
+        "Description": "",
+        "URL": "http://nerrs.noaa.gov/Reserve.aspx?ResID=HUD"
+      }
+    ],
+    "MEDIA": [
+      {
+        "EntityMediaID": "1890",
+        "MediaType": "Image",
+        "EntityID": "3087",
+        "EntityType": "RecArea",
+        "Title": "View of wetlands in the Hudson River National Estuarine Research Reserve, New York",
+        "Subtitle": "",
+        "Description": "",
+        "EmbedCode": "",
+        "Height": 0,
+        "Width": 0,
+        "URL": "https://cdn.recreation.gov/public/images/1890.jpg",
+        "Credits": " Hudson River National Estuarine Research Reserve",
+        "IsPrimary": false,
+        "IsPreview": false,
+        "IsGallery": true
+      },
+      {
+        "EntityMediaID": "1891",
+        "MediaType": "Image",
+        "EntityID": "3087",
+        "EntityType": "RecArea",
+        "Title": "Students monitoring within the Hudson River National Estuarine Research Reserve, New York",
+        "Subtitle": "",
+        "Description": "",
+        "EmbedCode": "",
+        "Height": 0,
+        "Width": 0,
+        "URL": "https://cdn.recreation.gov/public/images/1891.jpg",
+        "Credits": " Hudson River National Estuarine Research Reserve",
+        "IsPrimary": false,
+        "IsPreview": false,
+        "IsGallery": true
+      },
+      {
+        "EntityMediaID": "1889",
+        "MediaType": "Image",
+        "EntityID": "3087",
+        "EntityType": "RecArea",
+        "Title": "Student holding a bag of eels at the Hudson River National Estuarine Research Reserve, New York",
+        "Subtitle": "",
+        "Description": "",
+        "EmbedCode": "",
+        "Height": 0,
+        "Width": 0,
+        "URL": "https://cdn.recreation.gov/public/images/1889.jpg",
+        "Credits": " Hudson River National Estuarine Research Reserve",
+        "IsPrimary": false,
+        "IsPreview": false,
+        "IsGallery": true
+      }
+    ]
+  },
+  {
+    "RecAreaID": "3957",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "127",
+    "RecAreaName": "Shawangunk Grasslands National Wildlife Refuge",
+    "RecAreaDescription": "Shawangunk Grasslands National Wildlife Refuge is one of New York's top 10 areas for grassland dependent migratory birds. This exceptional habitat was formerly the Galeville Military Airport. In 1994, the U.S. Department of Defense determined it longer needed the site. It was subsequently transferred to the U.S. Fish and Wildlife Service in 1999.\n\n\n\nThe refuge is 566 acres.  It is located in the valley below the Shawangunk Mountains near the Hamlet of Wallkill in the Town of Shawangunk, Ulster County, New York.  Visitors are rewarded with spectacular views of the Shawangunks as well as many species of grassland birds.\n\n\n\nThis is an unstaffed satellite of the Wallkill River NWR.  Call 973-702-7266 for more information.\n\n\n\nKeeping this grassland and controlling the invasion of weeds, woody shrubs, and trees is the highest management priority for the refuge. Even though human created, this grassland is increasingly important for grassland-dependent migratory birds.  \n\n\n\nAs part of its management strategy, the refuge strives to restore and expand the habitats of six species of declining migratory birds that currently or historically occupied the refuge.  Bobolink, Savannah sparrow, Grasshopper sparrow, Upland Sandpiper, Northern Harrier, and Short-eared Owl are the focus of refuge management.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "These directions are from I-84:\n\n\n\nAt Exit #5 off Interstate 84, travel north on State Rt. 208.  \n\nEnter the Village of Walden.  At the stop light, turn right, continuing north on State Rt. 208.  You will then travel into the\n\nHamlet of Wallkill in Ulster County.  At the stop sign, turn left on Wallkill Avenue.  Travel for 2/10 mile.  Turn left on Bruyn Turnpike / County Rt. 18 (Post Office on corner).  At stop sign, continue straight on Bruyn Turnpike.  Travel for 1.4 miles\n\nTurn right on Hoagerburgh Road.  Travel for 1.5 miles, passing Blue Chip Farm.  The Shawangunk Grasslands NWR will be on your right.",
+    "RecAreaPhone": "973-702-7266",
+    "RecAreaEmail": "wallkill@fws.gov",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "",
+    "GEOJSON": {
+      "TYPE": "Point",
+      "COORDINATES": [-74.2106, 41.6517]
+    },
+    "RecAreaLongitude": -74.2106,
+    "RecAreaLatitude": 41.6517,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2019-09-25",
+    "ORGANIZATION": [
+      {
+        "OrgID": "127",
+        "OrgName": "Fish and Wildlife Service",
+        "OrgImageURL": "fws.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.fws.gov",
+        "OrgType": "Federal Agency",
+        "OrgAbbrevName": "FWS",
+        "OrgJurisdictionType": "State",
+        "OrgParentID": "139",
+        "LastUpdatedDate": "2018-06-26"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "2779",
+        "RecAreaID": "3957",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "Hoagerburgh Road",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Shawangunk",
+        "PostalCode": "12589",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2007-03-06"
+      }
+    ],
+    "ACTIVITY": [
+      {
+        "ActivityID": 14,
+        "ActivityParentID": "",
+        "RecAreaID": "3957",
+        "ActivityName": "HIKING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 26,
+        "ActivityParentID": "",
+        "RecAreaID": "3957",
+        "ActivityName": "WILDLIFE VIEWING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      }
+    ],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "42fa26d2127b3a867ee0f978656c74d8",
+        "LinkType": "Official Web Site",
+        "EntityID": "3957",
+        "EntityType": "RecArea",
+        "Title": "",
+        "Description": "",
+        "URL": "http://www.fws.gov/refuge/shawangunk_grasslands/"
+      }
+    ],
+    "MEDIA": []
+  },
+  {
+    "RecAreaID": "3997",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "127",
+    "RecAreaName": "Seatuck National Wildlife Refuge",
+    "RecAreaDescription": "Seatuck National Wildlife Refuge is located on the south shore of Long Island and is managed as part of the Long Island National Wildlife Refuge Complex. The refuge consists of 196 acres bordering the Great South Bay, separated from the Atlantic Ocean only by Fire Island. Situated in a heavily developed urban area, the refuge is an oasis for many species of migratory birds and waterfowl.  \n\n\n\nApproximately one half of the refuge consists of tidal marsh, which serves a vast number of waterfowl in the winter months. The refuge attracts waterbirds, white-tailed deer, red fox, and migratory songbirds and raptors.  The Refuge has been classified as part of the larger Great South Bay, a significant coastal habitat.  Management activities include forest and grassland protection and management, wetland restoration, wildlife nesting structure maintenance, and habitat restoration.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "Although the refuge is not open to the public, you can view the Seatuck NWR from South Bay Ave. in Islip, NY.  From the Long Island Expwy. (I-495), Exit 56, or from Sunrise Hwy. (Rte. 27),Exit 45, follow Rte.111S to the end at Montauk Hwy. (Rte. 27A)/Main Street. Right onto Main St. Left onto South Bay Ave.  View the Refuge on the eastern side of the road & an Audubon Sanctuary on the west side.  South Bay Ave. ends at the Town Beach, access to the beach for residents with permits only.",
+    "RecAreaPhone": "631-286-0485",
+    "RecAreaEmail": "longislandrefuges@fws.gov",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "",
+    "GEOJSON": {
+      "TYPE": "Point",
+      "COORDINATES": [-73.203598, 40.7092018]
+    },
+    "RecAreaLongitude": -73.203598,
+    "RecAreaLatitude": 40.7092018,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2019-09-25",
+    "ORGANIZATION": [
+      {
+        "OrgID": "127",
+        "OrgName": "Fish and Wildlife Service",
+        "OrgImageURL": "fws.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.fws.gov",
+        "OrgType": "Federal Agency",
+        "OrgAbbrevName": "FWS",
+        "OrgJurisdictionType": "State",
+        "OrgParentID": "139",
+        "LastUpdatedDate": "2018-06-26"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "3289",
+        "RecAreaID": "3997",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "500 St. Marks Ln.",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Islip",
+        "PostalCode": "11751",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "2007-03-06"
+      }
+    ],
+    "ACTIVITY": [],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "f4e9fca5821400dda82563a01db327ad",
+        "LinkType": "Official Web Site",
+        "EntityID": "3997",
+        "EntityType": "RecArea",
+        "Title": "",
+        "Description": "",
+        "URL": "http://www.fws.gov/northeast/longislandrefuges/"
+      }
+    ],
+    "MEDIA": []
+  },
+  {
+    "RecAreaID": "3998",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "127",
+    "RecAreaName": "Conscience Point National Wildlife Refuge",
+    "RecAreaDescription": "<p>The Conscience Point National Wildlife Refuge was established July 20, 1971 as a land gift from Stanley Howard. The 60-acre refuge is located in the Town of North Sea on the north shore of Long Island's south fork. The refuge protects grasslands, oak-beech forest, shrub habitats, kettle holes, freshwater marsh and saltmarsh.  \r\n<p>The refuge grasslands are a habitat model for maritime grasslands, a disappearing habitat type on Long Island due to development. Maritime grasslands are native grasslands composed of little bluestem grass, switch grass, poverty grass, hairgrass, and Prickly pear cactus. \r\n<p>Wildlife on the refuge is as diverse as its habitats.  Waterfowl are primarily black ducks and bufflehead. The grasslands are being managed and enlarged specifically to attract grassland dependent birds such as grasshopper sparrow, eastern meadowlark, savannah sparrow and bobolink. Due to its coastal location, the refuge is heavily used by migratory songbirds, shorebirds and raptors. The refuge also supports endangered and threatened species.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "<p>From Sunrise Hwy. (27E), turn left (North) onto North Sea Road (CR 38). Go approximately 1.5 miles (at stoplight veer left). At the intersection of Noyak and North Sea Roads go straight through the stop sign. The refuge will be on your right a short ways up the road.\r\n<p>The Refuge is only open to select public use activities (e.g., biological research, environmental education) by special use permit. Contact the refuge for more information.",
+    "RecAreaPhone": "631-286-0485",
+    "RecAreaEmail": "longislandrefuges@fws.gov",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "",
+    "GEOJSON": {
+      "TYPE": "Point",
+      "COORDINATES": [-72.886536, 40.794385]
+    },
+    "RecAreaLongitude": -72.886536,
+    "RecAreaLatitude": 40.794385,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2019-09-25",
+    "ORGANIZATION": [
+      {
+        "OrgID": "127",
+        "OrgName": "Fish and Wildlife Service",
+        "OrgImageURL": "fws.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.fws.gov",
+        "OrgType": "Federal Agency",
+        "OrgAbbrevName": "FWS",
+        "OrgJurisdictionType": "State",
+        "OrgParentID": "139",
+        "LastUpdatedDate": "2018-06-26"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "607712",
+        "RecAreaID": "3998",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "C/O Wetheim National Wildlife Refuge",
+        "RecAreaStreetAddress2": "340 Smith Road",
+        "RecAreaStreetAddress3": "",
+        "City": "Shirley",
+        "PostalCode": "11967",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "0001-01-01"
+      }
+    ],
+    "ACTIVITY": [],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "2b420700e6178609c3102d4d0c0b79a8",
+        "LinkType": "Official Web Site",
+        "EntityID": "3998",
+        "EntityType": "RecArea",
+        "Title": "Conscience Point National Wildlife Refuge",
+        "Description": "",
+        "URL": "http://www.fws.gov/refuge/Conscience_Point/"
+      }
+    ],
+    "MEDIA": []
+  },
+  {
+    "RecAreaID": "3999",
+    "OrgRecAreaID": "",
+    "ParentOrgID": "127",
+    "RecAreaName": "Elizabeth A. Morton National Wildlife Refuge",
+    "RecAreaDescription": "Established December 27, 1954, through a donation by the Morton family, the 187-acre Elizabeth A. Morton National Wildlife Refuge boasts exceptionally diverse habitats including bay beach, a brackish pond, a freshwater pond, kettle holes, tidal flats, saltmarsh, freshwater marsh, shrub, grasslands, maritime oak forest, and red cedar.  The refuge's diversity is not only critical to Long Island wildlife, but its picturesque quality is nothing short of an advertisement in a travel magazine! \r\n\r\n\r\n\r\nHabitats along the beach attract many species including nesting piping plovers, roseate terns, least terns, common terns, and shorebirds. The waters surrounding the refuge are considered critical habitat for juvenile Kemp's Ridley sea turtles and are occasionally used by loggerhead sea turtles.  Waterfowl use of the refuge peaks during the colder months.  Long-tailed ducks, white winged scoter, goldeneye and black ducks will most likely be spotted during winter. \r\n\r\n\r\n\r\nMuch of the refuge is situated on a peninsula surrounded by Noyack and Little Peconic Bays.  The north/south orientation of the peninsula makes the refuge important habitat for shorebirds, raptors and songbirds as they navigate the coastline during migration.",
+    "RecAreaFeeDescription": "",
+    "RecAreaDirections": "Sunrise Highway (Route 27) to Southampton, north onto North Sea Road (Route 38) for North Sea.  Right onto Noyack Road and continue for 5 miles. Refuge entrance in on the left.",
+    "RecAreaPhone": "631-725-7598",
+    "RecAreaEmail": "longislandrefuges@fws.gov",
+    "RecAreaReservationURL": "",
+    "RecAreaMapURL": "",
+    "GEOJSON": {
+      "TYPE": "Point",
+      "COORDINATES": [-72.886536, 40.794385]
+    },
+    "RecAreaLongitude": -72.886536,
+    "RecAreaLatitude": 40.794385,
+    "StayLimit": "",
+    "Keywords": "",
+    "Reservable": false,
+    "Enabled": true,
+    "LastUpdatedDate": "2019-09-25",
+    "ORGANIZATION": [
+      {
+        "OrgID": "127",
+        "OrgName": "Fish and Wildlife Service",
+        "OrgImageURL": "fws.gif",
+        "OrgURLText": "",
+        "OrgURLAddress": "http://www.fws.gov",
+        "OrgType": "Federal Agency",
+        "OrgAbbrevName": "FWS",
+        "OrgJurisdictionType": "State",
+        "OrgParentID": "139",
+        "LastUpdatedDate": "2018-06-26"
+      }
+    ],
+    "FACILITY": [],
+    "RECAREAADDRESS": [
+      {
+        "RecAreaAddressID": "608240",
+        "RecAreaID": "3999",
+        "RecAreaAddressType": "Default",
+        "RecAreaStreetAddress1": "2595 Noyack Road",
+        "RecAreaStreetAddress2": "",
+        "RecAreaStreetAddress3": "",
+        "City": "Sag Harbor",
+        "PostalCode": "11963",
+        "AddressStateCode": "NY",
+        "AddressCountryCode": "USA",
+        "LastUpdatedDate": "0001-01-01"
+      }
+    ],
+    "ACTIVITY": [
+      {
+        "ActivityID": 8,
+        "ActivityParentID": "",
+        "RecAreaID": "3999",
+        "ActivityName": "HISTORIC & CULTURAL SITE",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 10,
+        "ActivityParentID": "",
+        "RecAreaID": "3999",
+        "ActivityName": "INTERPRETIVE PROGRAMS",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 11,
+        "ActivityParentID": "",
+        "RecAreaID": "3999",
+        "ActivityName": "FISHING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 14,
+        "ActivityParentID": "",
+        "RecAreaID": "3999",
+        "ActivityName": "HIKING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 26,
+        "ActivityParentID": "",
+        "RecAreaID": "3999",
+        "ActivityName": "WILDLIFE VIEWING",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 103,
+        "ActivityParentID": "",
+        "RecAreaID": "3999",
+        "ActivityName": "ENVIRONMENTAL EDUCATION",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      },
+      {
+        "ActivityID": 104,
+        "ActivityParentID": "",
+        "RecAreaID": "3999",
+        "ActivityName": "PHOTOGRAPHY",
+        "RecAreaActivityDescription": "",
+        "RecAreaActivityFeeDescription": ""
+      }
+    ],
+    "EVENT": [],
+    "LINK": [
+      {
+        "EntityLinkID": "80b8baf3ced83137dc5557e52288c09a",
+        "LinkType": "Official Web Site",
+        "EntityID": "3999",
+        "EntityType": "RecArea",
+        "Title": "Elizabeth A. Morton National Wildlife Refuge",
+        "Description": "",
+        "URL": "http://www.fws.gov/refuge/elizabeth_a_morton/"
+      }
+    ],
+    "MEDIA": [
+      {
+        "EntityMediaID": "042f06af-b63a-40df-8a09-6c2e1529bfb0",
+        "MediaType": "Image",
+        "EntityID": "3999",
+        "EntityType": "RecArea",
+        "Title": "Elizabeth A. Morton National Wildlife Refuge",
+        "Subtitle": "",
+        "Description": "Fiddler Crabs at Elizabeth A. Morton National Wildlife Refuge",
+        "EmbedCode": "",
+        "Height": 525,
+        "Width": 700,
+        "URL": "https://cdn.recreation.gov/public/2018/10/04/12/12/3999_d879ecf0-34f7-4a7e-af17-54636c4ca847_700.jpg",
+        "Credits": "US Fish and Wildlife Service",
+        "IsPrimary": false,
+        "IsPreview": true,
+        "IsGallery": false
+      },
+      {
+        "EntityMediaID": "cc11fcaa-028d-4065-a8cf-66e2ea24d9d0",
+        "MediaType": "Image",
+        "EntityID": "3999",
+        "EntityType": "RecArea",
+        "Title": "Elizabeth A. Morton National Wildlife Refuge",
+        "Subtitle": "",
+        "Description": "Fiddler Crabs at Elizabeth A. Morton National Wildlife Refuge",
+        "EmbedCode": "",
+        "Height": 340,
+        "Width": 1440,
+        "URL": "https://cdn.recreation.gov/public/2018/10/04/12/12/3999_55fc11d6-1f1d-4f48-a0b3-363c021ebd49_1440.jpg",
+        "Credits": "US Fish and Wildlife Service",
+        "IsPrimary": true,
+        "IsPreview": false,
+        "IsGallery": false
+      }
+    ]
+  }
+]

@@ -10,6 +10,15 @@
 .search_widget {
     display: flex;
     flex-direction: column;
-    /* align-items: flex-end; */
-    /* justify-content: flex-end; */
+    align-items: center;
+    justify-content: flex-end;
+    /* align-content: flex-end; */
+}
+
+.get_adventure {
+    margin-top: 9em;
+    font-size: 30px;
+    border-radius: 5px;
+    width: 250px;
+    margin-bottom: 40px;
 }
