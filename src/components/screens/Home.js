@@ -1,11 +1,11 @@
 import React from 'react'
-import SearchWidget from './../SearchWidget.jsx'
+import GetAdventure from '../GetAdventure/GetAdventure.jsx'
 
 const Home = (props) => {
 	// const { history } = props
 	return (
 		<div className='home'>
-            <SearchWidget />
+            <GetAdventure />
 		</div>
 	)
 }

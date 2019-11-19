@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import './adventures.css'
+import './Adventures.css'
 import data from './../../mockdata.json'
 import {Card} from './../../common/index'
 
@@ -17,6 +17,10 @@ export default class Adventures extends Component {
         this.setState({adventures: data})
     }
 
+    handleClick(event) {
+
+    }
+
     renderAdventures = () => {
         const {history} = this.props
         console.log(this.state.adventures)
@@ -26,8 +30,9 @@ export default class Adventures extends Component {
             name={item.RecAreaName}
             // description={item.RecAreaDescription}
             // activity={item.activity.activityname}
-            // imgUrl={item.media[0].url}
+            imgUrl={item['MEDIA'][0] ? item['MEDIA'][0].URL : 'http://www.google.com'}
             history={history}
+            // onClick={event.handleClick()}
             />
         ))
     }
@@ -35,7 +40,7 @@ export default class Adventures extends Component {
     render() {
         return (
             <div>
-                <main >
+                <main className="adventure_container">
                 {this.renderAdventures()}
                 </main>
 

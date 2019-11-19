@@ -1,10 +1,10 @@
 import React from 'react'
-import './footer.css'
+import './Footer.css'
 
 const Footer = () => {
     return (
         <div className='footer_container'> 
-            <img className="footer_heart" src={require("./../media/SVG/heart.svg")} alt="logo" />
+            <img className="footer_heart" src={require("./../../media/SVG/heart.svg")} alt="logo" />
         </div>
     )
 }

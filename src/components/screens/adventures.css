@@ -1,8 +1,13 @@
 
 .adventure_container {
-    height: 400px;
-    background-image: url('./../../media/1886357.jpg');
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80%;
+    /* height: 400px; */
+    /* background-image: url('./../../media/1886357.jpg'); */
     background-repeat: no-repeat;
+    /* position: fixed; */
     background-size: contain;
-    margin: 0 20px;
+    margin: auto;
 }

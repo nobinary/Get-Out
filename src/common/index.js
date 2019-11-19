@@ -1,3 +1,3 @@
 
-export * from '../components/AdventureCard'
+export * from '../components/AdventureCard/AdventureCard'
 
