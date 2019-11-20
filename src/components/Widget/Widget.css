@@ -1,0 +1,31 @@
+.widget {
+    height: 80px;
+    width: auto;
+    margin-left: auto;
+    padding: 20px;
+    /* background-color: aqua; */
+}
+
+.feelslike {
+    font-size: 30px;
+}
+
+.widget_container {
+    display: flex;
+}
+
+.status {
+    height: 50px;
+}
+
+.sunny {
+
+}
+
+.cloudy {
+
+}
+
+.rainy {
+
+}

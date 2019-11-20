@@ -9,8 +9,7 @@ const Nav = () => {
         <NavLink exact activeClassName='active' to='/'>
         <img className="logo" src={require("./../../media/SVG/Asset 6.svg")} alt="logo" />
         </NavLink>
-        <img className="widget" src={require("./../../media/SVG/Asset 1.svg")} alt="widget" />
-        <Widget />
+        <Widget className="widget" />
     </div>
     )
 }

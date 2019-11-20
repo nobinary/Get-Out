@@ -23,14 +23,14 @@ export default class Adventures extends Component {
 
     renderAdventures = () => {
         const {history} = this.props
-        console.log(this.state.adventures)
+        // console.log(this.state.adventures)
         return this.state.adventures.map((item) => (
             <Card 
-            key={item.RecAreaID}
+            idee={item.RecAreaID}
             name={item.RecAreaName}
             // description={item.RecAreaDescription}
             // activity={item.activity.activityname}
-            imgUrl={item['MEDIA'][0] ? item['MEDIA'][0].URL : 'http://www.google.com'}
+            imgUrl={item['MEDIA'][0] ? item['MEDIA'][0].URL : "#"}
             history={history}
             // onClick={event.handleClick()}
             />

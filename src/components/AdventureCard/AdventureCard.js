@@ -8,7 +8,7 @@ export const Card = (props) => {
             <img className="card_photo" src={props.imgUrl} alt="adventure" />
             <p>{props.name}</p>
             <p>{props.description}</p>
-            <NavLink exact activeClassName='active' to='/readmore'>
+            <NavLink exact activeClassName='active' to={`/readmore/${props.idee}`}>
             <button>Read More</button>
             </NavLink>
         </div>
