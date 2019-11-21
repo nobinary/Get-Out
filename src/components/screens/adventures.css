@@ -11,3 +11,16 @@
     background-size: contain;
     margin: auto;
 }
+
+
+.adv_header {
+   
+}
+
+.add_adv {
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}

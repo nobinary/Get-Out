@@ -8,6 +8,7 @@
 
 .feelslike {
     font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .widget_container {
@@ -28,4 +29,21 @@
 
 .rainy {
 
+}
+
+@media (max-width: 520px) {
+    .widget {
+        height: 80px;
+        width: auto;
+        margin-left: auto;
+        padding: 30px 40px 0 40px;
+    }
+    .status {
+        height: 40px;
+    }
+    .feelslike {
+        font-size: 15px;
+        padding-right: 10px;
+        padding-top: 10px;
+    }
 }

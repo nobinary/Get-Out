@@ -1,12 +1,26 @@
 .adventureCards_container {
-    border: 1px solid black;
+    /* border: 0.5px solid lightblue; */
     margin: 20px;
-    background-color: white;
     width: 350px;
     border-radius: 5px;
+    text-align: center;
 }
 
 .card_photo {
     width: 100%;
     height: 200px;
+    border-radius: 5px 5px 0 0;
+}
+
+.read_more {
+    width: 70px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.adv_name {
+    font-family: Arial, Helvetica, sans-serif;
+    
 }

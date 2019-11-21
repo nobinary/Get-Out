@@ -1,8 +1,9 @@
 import React, {Component} from 'react'
+import {NavLink} from 'react-router-dom'
+import Axios from 'axios'
 import './Adventures.css'
 import data from './../../mockdata.json'
 import {Card} from './../../common/index'
-// import defaultPhoto from './../..media/1892102.jpg'
 
 export default class Adventures extends Component {
     constructor() {
@@ -13,21 +14,32 @@ export default class Adventures extends Component {
             toDelete: false,
         }
     }
-
     componentDidMount() {
         this.setState({adventures: data})
     }
 
-    handleClick(event) {
+    // fetchAdventures = async () => {
+    //     try {
+    //         const adventures= await Axios.get(`https://5dd1ce6b15bbc2001448d431.mockapi.io/RecAreas`)
 
-    }
+    //         this.setState(state => ({
+    //         adventures: [...state.adventures, adventures.data]
+    //         }
+    //         ))
+    //         // console.log(adventures.data)
+    //     } catch(error) {
+    //         console.log('Error: ', error)
+    //     }
+    
+    // }
 
     renderAdventures = () => {
         const {history} = this.props
-        // console.log(this.state.adventures)
+        console.log(this.state.adventures)
         return this.state.adventures.map((item) => (
             <Card 
             id={item.RecAreaID}
+            key={item.RecAreaName}
             name={item.RecAreaName}
             // description={item.RecAreaDescription}
             // activity={item.activity.activityname}
@@ -35,16 +47,21 @@ export default class Adventures extends Component {
             history={history}
             // onClick={event.handleClick()}
             />
+            
         ))
     }
 
     render() {
         return (
             <div>
+                <div className="adv_header">
+                    <NavLink exact to='/create' activeClassName='active'>
+                        <img className="add_adv" src={require('./../../media/SVG/add_adventure.svg')} alt='button'/>
+                    </NavLink>
+                </div>
                 <main className="adventure_container">
                 {this.renderAdventures()}
                 </main>
-
             </div>
         )
     }
