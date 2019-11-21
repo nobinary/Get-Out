@@ -74,7 +74,24 @@
         "URL": "http://www.archives.gov/northeast/nyc/new_york.html"
       }
     ],
-    "MEDIA": []
+    "MEDIA": [{
+      "EntityMediaID": "24fa9d4e-3581-4594-a038-ceabdd8f7344",
+      "MediaType": "Image",
+      "EntityID": "1089",
+      "EntityType": "RecArea",
+      "Title": "Green Mountain & Finger Lakes National Forests",
+      "Subtitle": "",
+      "Description": "Fall Colors",
+      "EmbedCode": "",
+      "Height": 525,
+      "Width": 700,
+      "URL": "https://cdn.recreation.gov/public/2019/10/08/22/01/1089_e3577ae2-3ac1-4dda-a2fa-ff9e86415120_700.jpg",
+      "Credits": "USDA FS",
+      "IsPrimary": false,
+      "IsPreview": false,
+      "IsGallery": true
+    }
+    ]
   },
   {
     "RecAreaID": "1089",
@@ -114,266 +131,7 @@
       }
     ],
     "FACILITY": [
-      {
-        "FacilityID": "246566",
-        "FacilityName": "Moses Pond",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246566"
-      },
-      {
-        "FacilityID": "246567",
-        "FacilityName": "Falls of Lana",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246567"
-      },
-      {
-        "FacilityID": "246557",
-        "FacilityName": "White River Road",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246557"
-      },
-      {
-        "FacilityID": "246558",
-        "FacilityName": "Somerset Road",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246558"
-      },
-      {
-        "FacilityID": "246568",
-        "FacilityName": "Robert Frost Wayside",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246568"
-      },
-      {
-        "FacilityID": "246552",
-        "FacilityName": "Sugarbush",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246552"
-      },
-      {
-        "FacilityID": "246515",
-        "FacilityName": "Green Mountain  - Middlebury/Rochester District",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246515"
-      },
-      {
-        "FacilityID": "246539",
-        "FacilityName": "Romance Header",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246539"
-      },
-      {
-        "FacilityID": "246572",
-        "FacilityName": "Bristol Cliffs Wilderness",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246572"
-      },
-      {
-        "FacilityID": "246546",
-        "FacilityName": "Prospect",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246546"
-      },
-      {
-        "FacilityID": "246564",
-        "FacilityName": "Branch Pond",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246564"
-      },
-      {
-        "FacilityID": "246569",
-        "FacilityName": "Big Branch Overlook",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246569"
-      },
-      {
-        "FacilityID": "246545",
-        "FacilityName": "Breadloaf Wilderness",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246545"
-      },
-      {
-        "FacilityID": "246544",
-        "FacilityName": "Old Job",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246544"
-      },
-      {
-        "FacilityID": "246547",
-        "FacilityName": "Wild Wings",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246547"
-      },
-      {
-        "FacilityID": "246548",
-        "FacilityName": "Mt. Meadows",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246548"
-      },
-      {
-        "FacilityID": "246549",
-        "FacilityName": "Mt. Top",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246549"
-      },
-      {
-        "FacilityID": "246550",
-        "FacilityName": "Rikert",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246550"
-      },
-      {
-        "FacilityID": "246553",
-        "FacilityName": "Mt. Snow",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246553"
-      },
-      {
-        "FacilityID": "246517",
-        "FacilityName": "Moosalamoo National Recreation Area",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246517"
-      },
-      {
-        "FacilityID": "246536",
-        "FacilityName": "Bingo",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246536"
-      },
-      {
-        "FacilityID": "246538",
-        "FacilityName": "Michigan Brook Road",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246538"
-      },
-      {
-        "FacilityID": "246534",
-        "FacilityName": "Chatfield Loop",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246534"
-      },
-      {
-        "FacilityID": "246570",
-        "FacilityName": "Lye Brook Wilderness",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246570"
-      },
-      {
-        "FacilityID": "232393",
-        "FacilityName": "HAPGOOD POND",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/232393"
-      },
-      {
-        "FacilityID": "249967",
-        "FacilityName": "Finger Lakes - Hector District",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/249967"
-      },
-      {
-        "FacilityID": "256347",
-        "FacilityName": "MOOSALAMOO CAMPGROUND",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/256347"
-      },
-      {
-        "FacilityID": "246528",
-        "FacilityName": "Bald Mountain",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246528"
-      },
-      {
-        "FacilityID": "251609",
-        "FacilityName": "CHITTENDEN BROOK CAMPGROUND",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/251609"
-      },
-      {
-        "FacilityID": "246554",
-        "FacilityName": "Brandon Gap",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246554"
-      },
-      {
-        "FacilityID": "246555",
-        "FacilityName": "Lincoln Gap Road",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246555"
-      },
-      {
-        "FacilityID": "246556",
-        "FacilityName": "Robert Frost Memorial Drive",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246556"
-      },
-      {
-        "FacilityID": "246542",
-        "FacilityName": "Texas Meadows",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246542"
-      },
-      {
-        "FacilityID": "246533",
-        "FacilityName": "Robert T. Stafford White Rocks National Recreation Area",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246533"
-      },
-      {
-        "FacilityID": "246516",
-        "FacilityName": "Green Mountain - Manchester District",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246516"
-      },
-      {
-        "FacilityID": "246560",
-        "FacilityName": "South Branch and Middle Branch",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246560"
-      },
-      {
-        "FacilityID": "250051",
-        "FacilityName": "Caywood Point",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/250051"
-      },
-      {
-        "FacilityID": "246520",
-        "FacilityName": "Silver Lake Campground",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246520"
-      },
-      {
-        "FacilityID": "274362",
-        "FacilityName": "Backbone Trailhead",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/274362"
-      },
-      {
-        "FacilityID": "246543",
-        "FacilityName": "West Hill (White River Road) & Patterson Brook Roa",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246543"
-      },
-      {
-        "FacilityID": "249965",
-        "FacilityName": "Backbone Horse Campground",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/249965"
-      },
-      {
-        "FacilityID": "246562",
-        "FacilityName": "Goshen Dam",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246562"
-      },
-      {
-        "FacilityID": "246563",
-        "FacilityName": "Beebee Pond",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246563"
-      },
-      {
-        "FacilityID": "246565",
-        "FacilityName": "Middlebury Gap",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246565"
-      },
-      {
-        "FacilityID": "246551",
-        "FacilityName": "Blueberry Hill",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246551"
-      },
-      {
-        "FacilityID": "246535",
-        "FacilityName": "Forest Road 341",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246535"
-      },
-      {
-        "FacilityID": "246537",
-        "FacilityName": "Downingville",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246537"
-      },
-      {
-        "FacilityID": "246540",
-        "FacilityName": "Sparks Landing",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246540"
-      },
-      {
-        "FacilityID": "246541",
-        "FacilityName": "Steam Mill Clearing",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246541"
-      },
-      {
-        "FacilityID": "246559",
-        "FacilityName": "Joseph Battell Wilderness",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246559"
-      },
-      {
-        "FacilityID": "246571",
-        "FacilityName": "George D. Aiken Wilderness",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246571"
-      },
-      {
-        "FacilityID": "246573",
-        "FacilityName": "Big Branch Wilderness",
-        "ResourceLink": "http://ridb.recreation.gov/api/v1/facilities/246573"
-      },
+      
       {
         "FacilityID": "246574",
         "FacilityName": "Peru Peak Wilderness",
@@ -506,40 +264,6 @@
     ],
     "MEDIA": [
       {
-        "EntityMediaID": "77fb4d50-97b4-4e19-b2a5-1ce71ef27728",
-        "MediaType": "Image",
-        "EntityID": "1089",
-        "EntityType": "RecArea",
-        "Title": "Green Mountain & Finger Lakes National Forests Fall",
-        "Subtitle": "",
-        "Description": "Green Mountain & Finger Lakes National Forests Fall",
-        "EmbedCode": "",
-        "Height": 1005,
-        "Width": 700,
-        "URL": "https://cdn.recreation.gov/public/2019/10/08/22/02/1089_3fad5368-321f-4445-9836-9374d95b5813_700.jpg",
-        "Credits": "USDA FS",
-        "IsPrimary": false,
-        "IsPreview": false,
-        "IsGallery": true
-      },
-      {
-        "EntityMediaID": "24fa9d4e-3581-4594-a038-ceabdd8f7344",
-        "MediaType": "Image",
-        "EntityID": "1089",
-        "EntityType": "RecArea",
-        "Title": "Green Mountain & Finger Lakes National Forests",
-        "Subtitle": "",
-        "Description": "Fall Colors",
-        "EmbedCode": "",
-        "Height": 525,
-        "Width": 700,
-        "URL": "https://cdn.recreation.gov/public/2019/10/08/22/01/1089_e3577ae2-3ac1-4dda-a2fa-ff9e86415120_700.jpg",
-        "Credits": "USDA FS",
-        "IsPrimary": false,
-        "IsPreview": false,
-        "IsGallery": true
-      },
-      {
         "EntityMediaID": "07c66836-b7f3-4a69-b816-d600513c9e1e",
         "MediaType": "Image",
         "EntityID": "1089",
@@ -554,40 +278,6 @@
         "Credits": "Share the Experience, Brandon Munoz",
         "IsPrimary": true,
         "IsPreview": false,
-        "IsGallery": false
-      },
-      {
-        "EntityMediaID": "10a55005-ea2f-4318-8ad4-50166488ed43",
-        "MediaType": "Image",
-        "EntityID": "1089",
-        "EntityType": "RecArea",
-        "Title": "Green Mountain & Finger Lakes National Forests Fall colors",
-        "Subtitle": "",
-        "Description": "Green Mountain & Finger Lakes National Forests Fall colors",
-        "EmbedCode": "",
-        "Height": 1035,
-        "Width": 700,
-        "URL": "https://cdn.recreation.gov/public/2019/10/08/22/03/1089_61d8fe8f-b014-47ff-b947-de09824af7e6_700.jpg",
-        "Credits": "USDA FS",
-        "IsPrimary": false,
-        "IsPreview": false,
-        "IsGallery": true
-      },
-      {
-        "EntityMediaID": "e84a5a77-cbbd-4984-84b4-038625f9e718",
-        "MediaType": "Image",
-        "EntityID": "1089",
-        "EntityType": "RecArea",
-        "Title": "Green Mountain & Finger Lakes National Forests",
-        "Subtitle": "",
-        "Description": "Green Mountain & Finger Lakes National Forests",
-        "EmbedCode": "",
-        "Height": 525,
-        "Width": 700,
-        "URL": "https://cdn.recreation.gov/public/2018/09/02/16/53/1089_8e65c80a-81c8-4ab2-8cfa-80f12ed0a77b_700.jpg",
-        "Credits": "Share the Experience, Brandon Munoz",
-        "IsPrimary": false,
-        "IsPreview": true,
         "IsGallery": false
       }
     ]
@@ -853,110 +543,7 @@
         "AddressCountryCode": "",
         "LastUpdatedDate": "2013-04-02"
       },
-      {
-        "RecAreaAddressID": "10348",
-        "RecAreaID": "13670",
-        "RecAreaAddressType": "Default",
-        "RecAreaStreetAddress1": "",
-        "RecAreaStreetAddress2": "",
-        "RecAreaStreetAddress3": "",
-        "City": "",
-        "PostalCode": "",
-        "AddressStateCode": "KY",
-        "AddressCountryCode": "",
-        "LastUpdatedDate": "2013-04-02"
-      },
-      {
-        "RecAreaAddressID": "10353",
-        "RecAreaID": "13670",
-        "RecAreaAddressType": "Default",
-        "RecAreaStreetAddress1": "",
-        "RecAreaStreetAddress2": "",
-        "RecAreaStreetAddress3": "",
-        "City": "",
-        "PostalCode": "",
-        "AddressStateCode": "TN",
-        "AddressCountryCode": "",
-        "LastUpdatedDate": "2013-04-02"
-      },
-      {
-        "RecAreaAddressID": "10345",
-        "RecAreaID": "13670",
-        "RecAreaAddressType": "Default",
-        "RecAreaStreetAddress1": "The University of Arizona",
-        "RecAreaStreetAddress2": "P.O. Box 210026",
-        "RecAreaStreetAddress3": "",
-        "City": "Tucson",
-        "PostalCode": "85721",
-        "AddressStateCode": "AZ",
-        "AddressCountryCode": "USA",
-        "LastUpdatedDate": "2018-10-12"
-      },
-      {
-        "RecAreaAddressID": "10347",
-        "RecAreaID": "13670",
-        "RecAreaAddressType": "Default",
-        "RecAreaStreetAddress1": "901 West Pratt Street",
-        "RecAreaStreetAddress2": "",
-        "RecAreaStreetAddress3": "",
-        "City": "Baltimore",
-        "PostalCode": "21223-2699",
-        "AddressStateCode": "MD",
-        "AddressCountryCode": "USA",
-        "LastUpdatedDate": "2018-10-12"
-      },
-      {
-        "RecAreaAddressID": "10349",
-        "RecAreaID": "13670",
-        "RecAreaAddressType": "Default",
-        "RecAreaStreetAddress1": "One East 104 Street",
-        "RecAreaStreetAddress2": "",
-        "RecAreaStreetAddress3": "",
-        "City": "New York",
-        "PostalCode": "10029-4495",
-        "AddressStateCode": "NY",
-        "AddressCountryCode": "USA",
-        "LastUpdatedDate": "2018-10-12"
-      },
-      {
-        "RecAreaAddressID": "10350",
-        "RecAreaID": "13670",
-        "RecAreaAddressType": "Default",
-        "RecAreaStreetAddress1": "3700 Blackhawk Plaza Circle",
-        "RecAreaStreetAddress2": "",
-        "RecAreaStreetAddress3": "",
-        "City": "Danville",
-        "PostalCode": "94506-4652",
-        "AddressStateCode": "CA",
-        "AddressCountryCode": "USA",
-        "LastUpdatedDate": "2018-10-12"
-      },
-      {
-        "RecAreaAddressID": "10351",
-        "RecAreaID": "13670",
-        "RecAreaAddressType": "Default",
-        "RecAreaStreetAddress1": "700 State Drive",
-        "RecAreaStreetAddress2": "",
-        "RecAreaStreetAddress3": "",
-        "City": "Los Angeles",
-        "PostalCode": "90037-1210",
-        "AddressStateCode": "CA",
-        "AddressCountryCode": "USA",
-        "LastUpdatedDate": "2018-10-12"
-      },
-      {
-        "RecAreaAddressID": "10352",
-        "RecAreaID": "13670",
-        "RecAreaAddressType": "Default",
-        "RecAreaStreetAddress1": "10000 Skyline Boulevard",
-        "RecAreaStreetAddress2": "",
-        "RecAreaStreetAddress3": "",
-        "City": "Oakland",
-        "PostalCode": "94619",
-        "AddressStateCode": "CA",
-        "AddressCountryCode": "USA",
-        "LastUpdatedDate": "2018-10-12"
-      },
+      
       {
         "RecAreaAddressID": "10354",
         "RecAreaID": "13670",
@@ -993,7 +580,24 @@
         "URL": "http://www.fhwa.dot.gov/byways/byways/2279"
       }
     ],
-    "MEDIA": []
+    "MEDIA": [     
+      {
+        "EntityMediaID": "e84a5a77-cbbd-4984-84b4-038625f9e718",
+        "MediaType": "Image",
+        "EntityID": "1089",
+        "EntityType": "RecArea",
+        "Title": "Green Mountain & Finger Lakes National Forests",
+        "Subtitle": "",
+        "Description": "Green Mountain & Finger Lakes National Forests",
+        "EmbedCode": "",
+        "Height": 525,
+        "Width": 700,
+        "URL": "https://cdn.recreation.gov/public/2018/09/02/16/53/1089_8e65c80a-81c8-4ab2-8cfa-80f12ed0a77b_700.jpg",
+        "Credits": "Share the Experience, Brandon Munoz",
+        "IsPrimary": false,
+        "IsPreview": true,
+        "IsGallery": false
+      }]
   },
   {
     "RecAreaID": "13688",
@@ -1070,7 +674,24 @@
         "URL": "http://www.fhwa.dot.gov/byways/byways/10335"
       }
     ],
-    "MEDIA": []
+    "MEDIA": [
+      {
+        "EntityMediaID": "cc11fcaa-028d-4065-a8cf-66e2ea24d9d0",
+        "MediaType": "Image",
+        "EntityID": "3999",
+        "EntityType": "RecArea",
+        "Title": "Elizabeth A. Morton National Wildlife Refuge",
+        "Subtitle": "",
+        "Description": "Fiddler Crabs at Elizabeth A. Morton National Wildlife Refuge",
+        "EmbedCode": "",
+        "Height": 340,
+        "Width": 1440,
+        "URL": "https://cdn.recreation.gov/public/2018/10/04/12/12/3999_55fc11d6-1f1d-4f48-a0b3-363c021ebd49_1440.jpg",
+        "Credits": "US Fish and Wildlife Service",
+        "IsPrimary": true,
+        "IsPreview": false,
+        "IsGallery": false
+      }]
   },
   {
     "RecAreaID": "13692",
@@ -1803,23 +1424,6 @@
         "Credits": "Doug Racine/USFWS",
         "IsPrimary": false,
         "IsPreview": true,
-        "IsGallery": false
-      },
-      {
-        "EntityMediaID": "b42a3c5a-791e-4f59-b70f-8899e5093039",
-        "MediaType": "Image",
-        "EntityID": "1524",
-        "EntityType": "RecArea",
-        "Title": "Montezuma National Wildlife Refuge",
-        "Subtitle": "",
-        "Description": "Northern Harrier at Montezuma National Wildlife Refuge",
-        "EmbedCode": "",
-        "Height": 340,
-        "Width": 1440,
-        "URL": "https://cdn.recreation.gov/public/2018/10/02/12/26/1524_79615382-432c-448c-ad06-a6b3ea5eb5d7_1440.jpg",
-        "Credits": "Doug Racine/USFWS",
-        "IsPrimary": true,
-        "IsPreview": false,
         "IsGallery": false
       }
     ]
@@ -3382,23 +2986,6 @@
         "Credits": "US Fish and Wildlife Service",
         "IsPrimary": false,
         "IsPreview": true,
-        "IsGallery": false
-      },
-      {
-        "EntityMediaID": "cc11fcaa-028d-4065-a8cf-66e2ea24d9d0",
-        "MediaType": "Image",
-        "EntityID": "3999",
-        "EntityType": "RecArea",
-        "Title": "Elizabeth A. Morton National Wildlife Refuge",
-        "Subtitle": "",
-        "Description": "Fiddler Crabs at Elizabeth A. Morton National Wildlife Refuge",
-        "EmbedCode": "",
-        "Height": 340,
-        "Width": 1440,
-        "URL": "https://cdn.recreation.gov/public/2018/10/04/12/12/3999_55fc11d6-1f1d-4f48-a0b3-363c021ebd49_1440.jpg",
-        "Credits": "US Fish and Wildlife Service",
-        "IsPrimary": true,
-        "IsPreview": false,
         "IsGallery": false
       }
     ]

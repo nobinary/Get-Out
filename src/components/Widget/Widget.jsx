@@ -29,7 +29,7 @@ export default class Widget extends React.Component {
             })
             
             )
-            console.log(this.state.weather.current.feelslike)
+            // console.log(this.state.weather.current.feelslike)
         } catch(error) {
             console.log('Error: ', error)
         }
