@@ -35,7 +35,7 @@ export default class Widget extends React.Component {
   };
 
   weatherStatus = () => {
-    if (this.state.status === "Sunny") {
+    if (this.state.status === "Sunny" || this.state.status === "Clear") {
       return (
         <img
           className="sunny status"
@@ -53,12 +53,12 @@ export default class Widget extends React.Component {
         />
       );
     }
-    if ((this.state.status === "Cloudy") | "Overcast") {
+    if (this.state.status === "Cloudy" || this.state.status === "Overcast" || this.state.status === "Partly cloudy") {
       return (
         <img
           className="cloudy status"
           alt="img"
-          src={require("./../../media/SVG/sunny.svg")}
+          src={require("./../../media/SVG/cloudy.svg")}
         />
       );
     } else {
@@ -70,7 +70,7 @@ export default class Widget extends React.Component {
     return (
       <React.Fragment>
         <div className="widget_container">
-          <p className="feelslike">{this.state.feelslike} °F</p>
+          <p className="feelslike">{this.state.feelslike}°F</p>
           {this.weatherStatus()}
         </div>
       </React.Fragment>

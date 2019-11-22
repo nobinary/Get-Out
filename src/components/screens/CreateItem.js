@@ -1,11 +1,14 @@
 import React, {Component} from 'react'
 import ItemForm from './../ItemForm'
+import Axios from 'axios'
+import {api} from './../../api/APIConfig'
+import {GetAllAdventures} from './../../api/APICalls'
 
 
 export default class CreateItem extends Component {
   constructor(props) {
     super(props)
-    this.state = {
+    this.state = { 
       name: '',
       description: '',
       image_url: '',
@@ -13,17 +16,40 @@ export default class CreateItem extends Component {
       link_url: '',
       errorMsg: '',
     }
+    
+    this.handleChange = this.handleChange.bind(this)
+    this.handleSubmit = this.handleSubmit.bind(this);
+    console.log(props)
   }
 
-//   createFood = async (foodData) => {
-// 	try {
-// 		const resp = await api.post('/food', foodData)
-// 		return resp
-// 	} catch (error) {
-// 		throw error
-// 	}
+  createAdventure = async (formData) => {
+    const adventures = await Axios.get(
+        `https://5dd1ce6b15bbc2001448d431.mockapi.io/RecAreas`
+      );
+    const adventureData = {
+        RecAreaName: formData.name,
+        RecAreaDescription: formData.description,
+        MEDIA: [{URL: formData.image_url}],
+        ACTIVITY:[ {ActivityName: formData.activities }],
+        LINK: [{URL: formData.link_url, LinkType: "Read More"}],
+        RecAreaID: "mk" + (adventures.data.length + 1) 
+    }  
+	try {
+		const resp = await Axios.post('https://5dd1ce6b15bbc2001448d431.mockapi.io/RecAreas', adventureData)
+		return resp
+	} catch (error) {
+		throw error
+    }
+}   
 
   handleChange = e => this.setState({ [e.target.name]: e.target.value })
+
+  handleSubmit = (e) => 
+  {
+      console.log("Submit")
+    this.createAdventure(this.state);
+    e.preventDefault();
+  }
 
   render() {
     const { name, description, image_url, activities, link_url } = this.state

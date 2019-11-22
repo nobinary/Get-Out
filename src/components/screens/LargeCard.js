@@ -1,65 +1,85 @@
-import React from "react";
+import React, { Component } from "react";
+import Axios from "axios";
 import { NavLink } from "react-router-dom";
-import data from "./../../mockdata.json";
 import "./LargeCard.css";
 
-const LargeCard = props => {
-  const post = data.filter(
-    (post, index) => post.RecAreaID === props.match.params.card_id
-  );
+export default class LargeCard extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      adventure: {}
+    };
+  }
+
+  componentDidMount() {
+    this.fetchAdventures();
+    // this.setState({adventures: data})
+  }
+  //   const post = data.filter(
+  //     (post, index) => post.RecAreaID === props.match.params.card_id
+  //   );
   // console.log(data)
   // console.log(props.match.params.card_id)
 
-  // const getActivities = () => {
-  //     for (let i=0; post[0]['ACTIVITY'].lenght; i++) {
+  getActivities = () => {
+    return this.state.adventure[0].ACTIVITY.map(item => {
+      console.log(item.ActivityName);
+      return  <p className="activity">{item.ActivityName +' '}</p>;
+    });
+  };
 
-  //     }
-  // }
+  fetchAdventures = async () => {
+    try {
+      const adventures = await Axios.get(
+        `https://5dd1ce6b15bbc2001448d431.mockapi.io/RecAreas`
+      );
+      console.log(adventures);
+      this.setState(state => ({
+        adventure: adventures.data.filter(
+          (post, index) => post.RecAreaID === this.props.match.params.card_id
+        )
+      }));
+    } catch (error) {
+      console.log("Error: ", error);
+    }
+  };
 
-  return (
-    <div>
-      <div className="adv_header">
-        <NavLink exact to="/create" activeClassName="active">
-          <img
-            className="add_adv"
-            src={require("./../../media/SVG/add_adventure.svg")}
-            alt="button"
-          />
-        </NavLink>
-      </div>
-      <div className="LargeCard_container">
-        {console.log(post)}
-        <img
-          className="card_photo"
-          src={
-            post[0]["MEDIA"][0]
-              ? post[0]["MEDIA"][0].URL
-              : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sevan_Armenia_%D0%A1%D0%B5%D0%B2%D0%B0%D0%BD_%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F.jpeg/660px-Sevan_Armenia_%D0%A1%D0%B5%D0%B2%D0%B0%D0%BD_%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F.jpeg"
-          }
-          alt="adventure"
-        />
-        <p>{post[0].RecAreaName}</p>
-        <p>{post[0].RecAreaDescription}</p>
-        {/* FIX NULL VALUE FOR ACTIVITY */}
-        <p className="activities">
-          {" "}
-          Activities:{" "}
-          {post[0]["ACTIVITY"][0].ActivityName
-            ? post[0]["ACTIVITY"][0].ActivityName
-            : null}{" "}
-        </p>
-        <div className="more_info">
-          <p>{post[0]["LINK"][0].LinkType}</p>
-          <p>{post[0]["LINK"][0].URL}</p>
+  render() {
+    if (this.state.adventure && this.state.adventure.length > 0) {
+      return (
+        <div>
+          <div className="adv_header">
+            <NavLink exact to="/create" activeClassName="active">
+              <img
+                className="add_adv"
+                src={require("./../../media/SVG/add_adventure.svg")}
+                alt="button"
+              />
+            </NavLink>
+          </div>
+          <div className="LargeCard_container">
+            {console.log(this.state.adventure)}
+            <img
+              className="card_photo"
+              src={
+                this.state.adventure[0]["MEDIA"][0]
+                  ? this.state.adventure[0]["MEDIA"][0].URL
+                  : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sevan_Armenia_%D0%A1%D0%B5%D0%B2%D0%B0%D0%BD_%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F.jpeg/660px-Sevan_Armenia_%D0%A1%D0%B5%D0%B2%D0%B0%D0%BD_%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F.jpeg"
+              }
+              alt="adventure"
+            />
+            <p>{this.state.adventure[0].RecAreaName}</p>
+            <p>{this.state.adventure[0].RecAreaDescription}</p>
+            <div className='activities_container'>{this.getActivities()}</div>
+            <div className="link_container" >
+              <a className="more_info" href={this.state.adventure[0]["LINK"][0].URL}>
+                {this.state.adventure[0]["LINK"][0].LinkType}
+              </a>
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
-  );
-};
-
-export default LargeCard;
-
-// idee={item.RecAreaID}
-// name={item.RecAreaName}
-// imgUrl={item['MEDIA'][0] ? item['MEDIA'][0].URL : "#"}
-// history={history}
+      );
+    }
+    return null;
+  }
+}

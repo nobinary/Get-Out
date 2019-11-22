@@ -3,7 +3,7 @@ import {NavLink} from 'react-router-dom'
 import './Cards.css'
 
 export const Card = (props) => {
-    console.log(props)
+    // console.log(props)
     return (
         <div className="adventureCards_container">
             <img className="card_photo" src={props.imgUrl} alt="adventure" />

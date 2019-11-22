@@ -24,10 +24,10 @@ export default class Adventures extends Component {
       const adventures = await Axios.get(
         `https://5dd1ce6b15bbc2001448d431.mockapi.io/RecAreas`
       );
+      console.log(adventures);
       this.setState(state => ({
-        adventures: [...state.adventures, adventures.data]
+        adventures: [...state.adventures, ...adventures.data]
       }));
-      // console.log(adventures.data)
     } catch (error) {
       console.log("Error: ", error);
     }
@@ -36,23 +36,25 @@ export default class Adventures extends Component {
   renderAdventures = () => {
     const { history } = this.props;
     console.log(this.state.adventures);
-    for (let i = 0; i < this.state.adventures.length; i++) {
+    // for (let i = 0; i < this.state.adventures.length; i++) {
       if (this.state.adventures && this.state.adventures.length > 0) {
-        return this.state.adventures.map((item, index) => (
+        return this.state.adventures.map((item) => {
+            // console.log(item.RecAreaID);
+            return (
           <Card
-            id={item[index].RecAreaID}
-            key={item[index].RecAreaName}
-            name={item[index].RecAreaName}
+            id={item.RecAreaID}
+            key={item.RecAreaName}
+            name={item.RecAreaName}
             imgUrl={
-              item[index]["MEDIA"][0]
-                ? item[0]["MEDIA"][0]["URL"]
+              item["MEDIA"][0]
+                ? item["MEDIA"][0]["URL"]
                 : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sevan_Armenia_%D0%A1%D0%B5%D0%B2%D0%B0%D0%BD_%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F.jpeg/660px-Sevan_Armenia_%D0%A1%D0%B5%D0%B2%D0%B0%D0%BD_%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F.jpeg"
             }
             history={history}
           />
-        ));
+        )});
       }
-    }
+    // }
   };
 
   render() {
