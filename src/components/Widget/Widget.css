@@ -2,7 +2,7 @@
     height: 60px;
     width: auto;
     margin-left: auto;
-    padding: 20px;
+    padding: 20px 0;
     /* background-color: aqua; */
 }
 
@@ -18,7 +18,6 @@
 
 .status {
     height: 40px;
-    padding-right: 30px;
 }
 
 .sunny {
@@ -38,7 +37,7 @@
         height: 80px;
         width: auto;
         margin-left: auto;
-        padding: 30px 30px 0 40px;
+        padding: 30px 0 0 0;
     }
     .status {
         height: 40px;
