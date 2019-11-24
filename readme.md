@@ -25,5 +25,5 @@ Database of Federal Recreational Areas
 
 ![walkthrough]
 
-[walkthrough]:  "walkthrough"
+[walkthrough]: https://github.com/nobinary/Get-Out/blob/master/src/media/ezgif.com-video-to-gif.gif "walkthrough"
 
