@@ -16,11 +16,4 @@ Database of Federal Recreational Areas
 
 **Highlights**
 
-
-```
-
-
-![walkthrough]
-
-
 [walkthrough]: https://github.com/nobinary/Get-Out/blob/master/src/media/ezgif.com-video-to-gif.gif "walkthrough"
