@@ -4,17 +4,9 @@
     flex-wrap: wrap;
     justify-content: center;
     width: 80%;
-    /* height: 400px; */
-    /* background-image: url('./../../media/1886357.jpg'); */
     background-repeat: no-repeat;
-    /* position: fixed; */
     background-size: contain;
     margin: auto;
-}
-
-
-.adv_header {
-   
 }
 
 .add_adv {

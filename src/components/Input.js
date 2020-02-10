@@ -18,7 +18,6 @@ export const Button = ({ onClick, className, color, title, variant }) => (
 	<button
         onClick={onClick}
         className="submit"
-		// className={`button ${className} ${variant} ${color}`}
         >
 		{title}
 	</button>

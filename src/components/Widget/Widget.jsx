@@ -1,7 +1,7 @@
 import React from "react";
 import Axios from "axios";
 import "./Widget.css";
-// import {weatherData} from './../../api/APICalls'
+
 
 export default class Widget extends React.Component {
   constructor() {

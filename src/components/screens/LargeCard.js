@@ -13,13 +13,8 @@ export default class LargeCard extends Component {
 
   componentDidMount() {
     this.fetchAdventures();
-    // this.setState({adventures: data})
   }
-  //   const post = data.filter(
-  //     (post, index) => post.RecAreaID === props.match.params.card_id
-  //   );
-  // console.log(data)
-  // console.log(props.match.params.card_id)
+
 
   getActivities = () => {
     return this.state.adventure[0].ACTIVITY.map(item => {

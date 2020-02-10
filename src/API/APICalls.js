@@ -1,5 +1,5 @@
 import {api} from './APIConfig'
-import Axios from 'axios'
+
 
 export const getAllAdventures = async () => {
 	try {
@@ -21,14 +21,5 @@ export const createItem = async (adventureData) => {
 }
 
 
-// const url = `http://api.weatherstack.com/current?access_key=c5279c001f9e98167f2f81079ebdf319&query=New York&units=f`
 
-// export const weatherData = async () => {
-// 	try {
-// 		const resp = Axios.get(url)
-// 		return resp.data
-// 	} catch (error) {
-// 		throw error
-// 	}
-// }
 

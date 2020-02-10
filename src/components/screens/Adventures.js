@@ -2,8 +2,7 @@ import React, { Component } from "react";
 import { NavLink } from "react-router-dom";
 import Axios from "axios";
 import "./Adventures.css";
-// import data from './../../mockdata.json'
-import { Card } from "./../../common/index";
+import { Card } from "./../Card/Card";
 
 export default class Adventures extends Component {
   constructor() {
@@ -16,7 +15,6 @@ export default class Adventures extends Component {
   }
   componentDidMount() {
     this.fetchAdventures();
-    // this.setState({adventures: data})
   }
 
   fetchAdventures = async () => {
@@ -36,11 +34,10 @@ export default class Adventures extends Component {
   renderAdventures = () => {
     const { history } = this.props;
     console.log(this.state.adventures);
-    // for (let i = 0; i < this.state.adventures.length; i++) {
-      if (this.state.adventures && this.state.adventures.length > 0) {
-        return this.state.adventures.map((item) => {
-            // console.log(item.RecAreaID);
-            return (
+    if (this.state.adventures && this.state.adventures.length > 0) {
+      return this.state.adventures.map(item => {
+        // console.log(item.RecAreaID);
+        return (
           <Card
             id={item.RecAreaID}
             key={item.RecAreaName}
@@ -52,9 +49,9 @@ export default class Adventures extends Component {
             }
             history={history}
           />
-        )});
-      }
-    // }
+        );
+      });
+    }
   };
 
   render() {

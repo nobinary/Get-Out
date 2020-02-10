@@ -2,7 +2,6 @@ import React from 'react'
 import GetAdventure from '../GetAdventure/GetAdventure.jsx'
 
 const Home = (props) => {
-	const { history } = props
 	return (
 		<div className='home'>
             <GetAdventure />

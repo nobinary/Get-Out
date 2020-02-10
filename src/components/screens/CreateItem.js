@@ -1,8 +1,6 @@
 import React, {Component} from 'react'
 import ItemForm from './../ItemForm'
 import Axios from 'axios'
-import {api} from './../../api/APIConfig'
-import {GetAllAdventures} from './../../api/APICalls'
 
 
 export default class CreateItem extends Component {
