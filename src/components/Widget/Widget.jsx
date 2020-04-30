@@ -44,15 +44,16 @@ export default class Widget extends React.Component {
         />
       );
     }
-    if (this.state.status === "Rainy status") {
+    if (this.state.status === "Rainy" || this.state.status === "Light Rain, Mist") {
       return (
         <img
-          className="rainy"
+          className="rainy status"
           alt="img"
           src={require("./../../media/SVG/rainy.svg")}
         />
       );
     }
+    
     if (this.state.status === "Cloudy" || this.state.status === "Overcast" || this.state.status === "Partly cloudy") {
       return (
         <img
